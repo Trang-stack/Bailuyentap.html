@@ -1,78 +1,887 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Muse Xin Chao</title>
-    <!-- Thư viện Icon Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <title>Document</title>
 </head>
 <body>
+    Lịch sử Trái Đất trải <a href="Thuvien.html/Java.html">Java</a> dài khoảng 4,55 tỷ năm, từ khi Trái Đất hình thành từ Tinh vân Mặt Trời cho tới hiện tại. Bài viết này đưa ra một khái quát chung, tóm tắt những lý thuyết khoa học được nhiều người công nhận hiện tại.
 
-    <div class="container">
-        <!-- Cột trái: Thông tin địa chỉ & Bản đồ -->
-        <div class="left-col">
-            <h1 class="main-title">THE MUSE XIN CHÀO</h1>
+Trong bài <span style="color:brown"><a name ="Trang">Trang</a> </span>này, để giúp độc giả dễ tưởng tượng, toàn bộ lịch sử Trái Đất được miêu tả trong một khoảng thời gian tượng trưng bằng 24 giờ. Thời điểm bắt đầu là 0 giờ, chính xác vào 4,55 tỷ năm trước, và kết thúc, 24 giờ, ở thời điểm hiện tại. Mỗi giây tượng trưng trong khoảng thời gian này tương đương với khoảng 53.000 năm.
 
-            <h2 class="section-title">Địa chỉ Hà Nội</h2>
+Vụ nổ lớn và nguồn gốc <a href="Bailuyentap.html#Trang">tìm kiếm</a> của vũ trụ, được ước tính đã xảy ra khoảng 13,8 tỷ năm trước, tương đương với việc ta lấy mốc của nó là 3 ngày trước đây – 2 ngày trước khi chiếc đồng hồ của riêng chúng ta (Hệ Mặt Trời) bắt đầu chuyển động.
 
-            <ul class="info-list">
-                <li class="info-item">
-                    <i class="fa-solid fa-location-dot"></i>
-                    <span>12 Chùa Bộc, P.Kim Liên, Hà Nội</span>
-                </li>
-                <li class="info-item">
-                    <i class="fa-solid fa-phone"></i>
-                    <a href="tel:18008287">1800 8287</a>
-                </li>
-                <li class="info-item">
-                    <i class="fa-regular fa-envelope"></i>
-                    <a href="mailto:contact@themuse.com">contact@themuse.com</a>
-                </li>
-            </ul>
+Nguồn gốc
+Bài chi tiết: Lịch sử Hệ <a href="Thuvien.html/Java.html#duy"> duy </a>Mặt Trời và Hành tinh
 
-            <div class="map-box">
-               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1862.2943621420238!2d105.82839504232807!3d21.009117075758724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ac8006cc07f5%3A0x5295d70e63fa239d!2zTmcuIDEyIFAuIENow7lhIELhu5ljLCBLaW0gTGnDqm4sIEjDoCBO4buZaSwgVmlldG5hbQ!5e0!3m2!1sen!2s!4v1789714944226!5m2!1sen!2s" width="420" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe> 
-            </div>
-        </div>
+Minh họa đĩa tiền hành tinh đang hình thành quanh một hệ sao đôi.
+Trái Đất được hình thành <u><b> <a name="Tukhoa"> Từ khóa</a></b> </u> cùng với Hệ Mặt Trời từ khi Hệ Mặt Trời ban đầu tồn tại như một đám mây bụi và khí lớn, quay tròn, gọi là tinh vân Mặt Trời. Tinh vân này gồm hydro và heli được tạo ra từ Vụ Nổ Lớn, và những nguyên tố hóa học nặng hơn khác được tạo ra từ các ngôi sao đã chết. Sau đó, vào khoảng 4,6 tỷ năm trước (15 đến 30 phút trước khi chiếc đồng hồ tưởng tượng của chúng ta bắt đầu chạy), có thể một ngôi sao ở gần đó bắt đầu trở thành một siêu tân tinh. Vụ nổ gây sóng chấn động về hướng tinh vân Mặt Trời và làm nó bị nén vào. Vì đám mây tiếp tục quay, lực hấp dẫn và quán tính làm đám mây trở nên phẳng như hình dạng một cái đĩa, vuông góc so với trục quay của nó. Đa phần khối lượng tập trung ở giữa và bắt đầu nóng lên. Lúc ấy, khi trọng lực làm cho vật chất cô đặc lại xung quanh các hạt bụi vật chất, phần còn lại của đĩa bắt đầu tan rã thành những vành đai. Các mảnh nhỏ va chạm vào nhau và tạo thành những mảnh lớn hơn.[1] Những mảnh nằm trong tập hợp nằm cách trung tâm khoảng 150 triệu kilômét tạo thành Trái Đất. Khi Mặt Trời ngày càng đặc lại, nó nóng lên, phản ứng hạt nhân bùng nổ và tạo nên gió Mặt Trời thổi bay đa phần những vật chất ở trong đĩa vẫn còn chưa bị cô đặc vào những tập hợp vật chất lớn hơn.
 
-        <!-- Cột phải: Form gửi phản hồi -->
-        <div class="right-col">
-            <p class="form-desc">
-                Quý khách vui lòng điền thông tin theo mẫu bên dưới. Mọi thắc mắc liên quan đến sản phẩm, dịch vụ, chúng mình <span class="highlight">sẽ cố gắng phản hồi trong thời gian sớm nhất.</span>
-            </p>
+Mặt Trăng
+Bài chi tiết: Mặt Trăng § <hr style="height: 2px; border: none; background-color: red">
+Nguồn gốc và sự tiến hoá địa chất
 
-            <form action="#" method="POST">
-                <div class="form-group">
-                    <input type="text" placeholder="Họ và tên" required>
-                </div>
-                <div class="form-group">
-                    <input type="email" placeholder="Email" required>
-                </div>
-                <div class="form-group">
-                    <input type="tel" placeholder="Số điện thoại" required>
-                </div>
-                <div class="form-group">
-                    <input type="text" placeholder="Tiêu đề">
-                </div>
-                <div class="form-group">
-                    <textarea placeholder="Nội dung" required></textarea>
-                </div>
+Hình ảnh giả định (không theo tỉ lệ) <hr style="height:1px;border:none;background-color: red"> về Theia hình thành tại điểm L5 của Trái Đất, sau đó bị mất ổn định bởi trọng lực, lao vào Trái Đất hình thành nên Mặt Trăng. Quan sát từ Nam cực.
+Nguồn gốc của Mặt Trăng hiện nay còn<hr style="height:2px;border:none;background-color:blueviolet"> chưa chắc chắn, mặc dù đa số bằng chứng tồn tại ủng hộ Giả thuyết vụ va chạm lớn. Trái Đất có thể không phải là hành tinh duy nhất được tạo thành ở khoảng cách 150 triệu km từ Mặt trời. Một giả thuyết cho rằng một tập hợp vật chất khác với khoảng cách 150 triệu km từ cả Trái Đất và Mặt Trời, ở điểm Lagrange thứ tư hay thứ năm. Hành tinh này được gọi là Theia, nó được cho là nhỏ hơn so với Trái Đất lúc đó, có lẽ có cùng kích thước và khối lượng như Sao Hoả. Quỹ đạo của nó ban đầu là ổn định nhưng về sau khi Trái Đất ngày càng có khối lượng lớn hơn khi thu thập thêm vật chất ở xung quanh, thì quỹ đạo của Theia trở nên bất ổn định. Theia lui theo Trái Đất cho tới khi, cuối cùng, cách nay khoảng 4.533 tỷ năm[2] (có lẽ 0 giờ 05 phút đêm theo giờ của chúng ta), nó va chạm vào Trái Đất theo một góc thấp và chéo. Tốc độ chậm và góc nhỏ không đủ để nó tiêu diệt Trái Đất, nhưng một tỷ lệ lớn lớp vỏ của nó bị bắn ra. Những phần tử nặng từ Theia chìm sâu vào vỏ Trái Đất, trong khi những phần còn lại và vật chất phóng ra tập hợp lại thành một vật thể duy nhất trong vài tuần. Dưới ảnh hưởng của trọng lực của chính nó, có lẽ trong một năm, nó trở thành một vật thể có hình cầu: là Mặt Trăng.[3] Sự va chạm cũng được cho rằng đã làm thay đổi trục của Trái Đất làm nó nghiêng đi 23,5°, trục quay nghiêng gây ra mùa trên Trái Đất. (Một hình thức lý tưởng và đơn giản về nguồn gốc hành tinh sẽ có các trục nghiêng 0° và không gây ra mùa.) Có thể nó cũng đã làm tốc độ quay của Trái Đất tăng thêm và khởi động những kiến tạo địa tầng.
 
-                <!-- Khung Xác minh Captcha -->
-                <div class="recaptcha-box">
-                    <div class="recaptcha-left">
-                        <input type="checkbox" id="robot">
-                        <label for="robot">Tôi không phải là người máy</label>
-                    </div>
-                </div>
+Liên đại Hỏa Thành (Thái Viễn Cổ)
+Bài chi tiết: Liên đại Hỏa thành
 
-                <div class="btn-container">
-                    <button type="submit" class="submit-btn">Gửi &rarr;</button>
-                </div>
-            </form>
-        </div>
-    </div>
+Những vụ phun trào núi lửa diễn ra thường xuyên trong buổi đầu lịch sử Trái Đất.
+Trái Đất buổi ban đầu, ở thời gian Liên đại Hỏa Thành hay Thái Viễn Cổ, rất khác biệt so với Trái Đất của chúng ta ngày nay. Trái Đất không có các đại dương và cũng không có oxy trên khí quyển. Hành tinh luôn bị bắn phá bởi các tiểu hành tinh và các vật chất khác còn sót lại sau khi hình thành nên Hệ Mặt Trời. Cuộc bắn phá dữ dội này, cộng với sức nóng từ sự phân chia kích hoạt phóng xạ, sức nóng còn sót lại, sức nóng từ áp lực co ngót, làm cho hành tinh ở giai đoạn này hầu như bị nấu chảy ra. Những vật chất nặng chìm vào tâm trong khi những vật chất nhẹ hơn nổi lên bề mặt, tạo ra nhiều lớp của Trái Đất (xem "Cấu trúc Trái Đất"). Khí quyển ban đầu của Trái Đất có thể gồm những vật liệu bao quanh bên ngoài từ tinh vân mặt trời, đặc biệt là các khí nhẹ như hydro và heli, nhưng gió mặt trời và chính nhiệt lượng của Trái Đất có thể đã thổi bay khí quyển đó. Bề mặt dần lạnh đi, tạo nên vỏ cứng trong vòng 150 triệu năm (khoảng 4,4 tỷ năm trước).[4] Hơi nước thoát ra từ lớp vỏ khi các khí gas bị núi lửa phun lên, tạo cho Trái Đất một khí quyển thứ hai. Nước được cung cấp thêm từ những cuộc va chạm của sao băng. Hành tinh lạnh đi. Các đám mây được tạo thành. Mưa tạo nên các biển trong vòng 750 triệu năm (3,8 tỷ năm trước, khoảng 4:00 giờ sáng theo đồng hồ của chúng ta), nhưng cũng có thể sớm hơn. (Những bằng chứng gần đây cho thấy các đại dương có thể đã bắt đầu được tạo nên từ 4,2 tỷ năm trước — 1:50 sáng theo đồng hồ của chúng ta.)[5] Khí quyển mới có lẽ có chứa amonia, methan, hơi nước, carbon dioxide, và nitơ, cũng như một lượng nhỏ các chất khí khác. Hoạt động núi lửa tăng lên, và vì không có một lớp ozon để ngăn cản, bức xạ tia cực tím thâm nhập khắp bề mặt Trái Đất.
 
+Khởi nguồn sự sống
+Bài chi tiết: Nguồn gốc sự sống
+
+Hệ thống tái tạo của hầu như cả sự sống là DNA. DNA phức tạp hơn hệ thống tái tạo đầu tiên nhiều.
+Các chi tiết về nguồn gốc sự sống vẫn còn chưa được khám phá, mặc dù các nguyên lý rộng đã được lập nên. Một thiểu số các nhà khoa học tin rằng cuộc sống, hay ít nhất là các thành phần hữu cơ, có thể đã tới Trái Đất từ vũ trụ (xem "Thuyết tha sinh"); tuy vậy, những cơ cấu theo đó sự sống có thể được phát sinh được tin là tương tự với những sự sống có nguồn gốc trên Trái Đất.[6] Đa số các nhà khoa học tin rằng sự sống có nguồn gốc Trái Đất, nhưng thời gian của sự kiện này rất khác biệt – có lẽ là vào khoảng 4 tỷ năm trước (khoảng 3:00 giờ sáng theo đồng hồ của chúng ta).[7] Vì một lý do chưa xác định, trong sự hoạt động hóa học mạnh mẽ thời kỳ đầu của Trái Đất, một phân tử (hay thậm chí là một thứ gì khác) đã có khả năng tự phân chia thành các bản sao của chính nó. Bản chất của phân tử này vẫn còn chưa được biết tới, từ đó các chức năng của nó được truyền lại cho các thế hệ bản sao về sau này, DNA. Khi tự mô phỏng, bản sao không phải bao giờ cũng thể hiện chính xác tương tự như thế hệ trước: một số bản sao có chứa "lỗi". Nếu sự thay đổi tiêu diệt khả năng tự mô phỏng của phân tử, thì nó sẽ mất đi, và con đường phát triển bị "tắt ngấm". Nếu không, một số thay đổi hiếm hoi sẽ làm cho phân tử được mô phỏng và được tái tạo một cách nhanh chóng hơn và với khả năng tốt hơn: những "dòng dõi" đó sẽ trở nên đông đảo và "thành công" hơn. Khi sự lựa chọn các vật liệu thô (thức ăn) trở nên thiếu thốn, các dòng dõi sau đó có thể khai thác các nguyên liệu khác, hay có lẽ là học cách tiến triển của các kiểu dòng dõi khác, và trở nên đông đảo hơn.[8]
+
+Nhiều kiểu phát triển khác nhau đã được đưa ra nhằm giải thích tại sao một bản sao lại có thể phát triển hơn. Nhiều bản sao đã được thử nghiệm, gồm cả các hóa chất hữu cơ như các protein hiện đại của các acid nucleic, phospholipid, tinh thể,[9] hay thậm chí các hệ lượng tử.[10] Hiện nay không có phương pháp nào có thể xác định kiểu nào trong số các kiểu trên, nếu có, là tương thích nhất với nguồn gốc sự sống trên Trái Đất. Một trong những lý thuyết trước kia, và là một lý thuyết đã chứng minh là đúng đắn về một số mặt, sẽ được đem ra làm ví dụ về việc tại sao quá trình này có thể xảy ra. Năng lượng cao từ các núi lửa, sét, và bức xạ tia cực tím có thể làm cho các phản ứng hóa học tạo ra nhiều phân tử phức tạp hơn từ các hợp chất đơn giản như methan và amonia.[11] Trong số chúng có nhiều hợp chất hữu cơ đơn giản là những nguyên tố căn bản của sự sống. Khi số lượng của những "hợp chất hữu cơ" đó tăng lên, các phân tử khác nhau phản ứng lẫn nhau. Thỉnh thoảng các phân tử phức tạp hơn có thể tạo thành các cơ thể sống, tạo ra một tổ chức để tập hợp và tập trung các vật chất hữu cơ.[12] Sự hiện diện của một số phân tử có thể làm tăng tốc một phản ứng hóa học. Tất cả chúng tiếp diễn trong một thời gian dài, với các phản ứng thường hay ít xảy ra ngẫu nhiên, tới khi nó may mắn tạo nên một phân tử mới: phân tử tái tạo. Nó có tính chất kỳ dị thúc đẩy các phản ứng hóa học tạo thành bản sao của chính nó, và tiến trình phát triển thực sự bắt đầu. Các lý thuyết khác đưa ra các kiểu tái tạo khác. Trong bất kỳ trường hợp nào, DNA chiếm vai trò chức năng của các phần tử tái tạo; tất cả các hình thức sự sống từng được biết (ngoại trừ một số loại virus) sử dụng DNA làm hình thức tái tạo của chúng trong hầu hết phương pháp tái tạo.
+
+Có giả thuyết cho rằng khởi nguồn của sự sống bắt nguồn từ quy luật đa dạng hóa tự động của vũ trụ.
+
+Tế bào đầu tiên
+
+Một đoạn nhỏ của một màng tế bào. Màng tế bào hiện đại này phức tạp hơn rất nhiều so với lớp phospholipid kép đơn giản nguyên thủy (hình cầu nhỏ màu xanh có hai đuôi). Các protein và carbohydrat giữ nhiều vai trò trong điều chỉnh sự chuyển hóa nguyên liệu từ qua màng và trong phản ứng lại với môi trường.
+Sự sống hiện đại có <a href="#Trang">Lên trên </a>nguyên liệu tái tạo được đóng gói gọn bên trong một màng tế bào. Tìm hiểu nguồn gốc màng tế bào dễ dàng hơn so với việc tìm hiểu nguồn gốc chất tái tạo, bởi vì các phân tử phospholipid tạo thành màng tế bào thường ở dạng hai lớp (bilayer) tự sinh khi được đặt trong nước. Dưới một số điều kiện, nhiều quả cầu như vậy có thể được hình thành (xem "Lý thuyết bong bóng").[13] Vẫn chưa biết được liệu quá trình này diễn ra trước hay sau khởi nguồn của chất tái tạo (hay có lẽ nó từng là chất tái tạo). Thuyết phổ biến nhất cho rằng chất tái tạo, có lẽ RNA tới lúc ấy (lý thuyết thế giới RNA), cùng bộ máy tái tạo của nó và có lẽ cả các biomolecules khác đã có tham gia vào quá trình. Các tiền tế bào ban đầu có lẽ đã đơn giản vỡ ra khi chúng phát triển quá lớn; những thứ bên trong có lẽ đã xâm lấn sang các "bong bóng" khác. Các protein làm ổn định màng, hay sau này giúp vào quá trình phân chia có trật tự, đã thúc đẩy quá trình tăng trưởng của các tế bào đó. RNA cũng có thể là một ứng cử viên của một chất tái tạo ban đầu bởi vì nó vừa có thể lưu giữ thông tin di truyền vừa làm xúc tác cho các phản ứng. Ở một số mặt, DNA đã chiếm giữ vai trò lưu giữ di truyền của RNA, và các protein được gọi là enzyme chiếm vai trò xúc tác, để RNA chuyển
+class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Khủng_long rootpage-Khủng_long skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Bước tới nội dung</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Trang Web">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Bảng chọn chính" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Bảng chọn chính"   >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Bảng chọn chính</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Bảng chọn chính</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin" aria-label="Move Bảng chọn chính to sidebar">chuyển sang thanh bên</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin" aria-label="Hide Bảng chọn chính">ẩn</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Điều hướng
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Trang_Ch%C3%ADnh" title="Xem trang chính [z]" accesskey="z"><span>Trang Chính</span></a></li><li id="n-wikipedia-featuredcontent" class="mw-list-item"><a href="/wiki/C%E1%BB%95ng_th%C3%B4ng_tin:N%E1%BB%99i_dung_ch%E1%BB%8Dn_l%E1%BB%8Dc"><span>Nội dung chọn lọc</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Ng%E1%BA%ABu_nhi%C3%AAn" title="Xem trang ngẫu nhiên [x]" accesskey="x"><span>Bài viết ngẫu nhiên</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Thay_%C4%91%E1%BB%95i_g%E1%BA%A7n_%C4%91%C3%A2y" title="Danh sách thay đổi gần đây trong wiki [r]" accesskey="r"><span>Thay đổi gần đây</span></a></li><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/Wikipedia:B%C3%A1o_l%E1%BB%97i_b%C3%A0i_vi%E1%BA%BFt"><span>Báo lỗi nội dung</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-wikipedia-interaction" class="vector-menu mw-portlet mw-portlet-wikipedia-interaction"  >
+	<div class="vector-menu-heading">
+		Tương tác
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-wikipedia-helppage" class="mw-list-item"><a href="/wiki/Wikipedia:S%C3%A1ch_h%C6%B0%E1%BB%9Bng_d%E1%BA%ABn"><span>Hướng dẫn</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:Gi%E1%BB%9Bi_thi%E1%BB%87u"><span>Giới thiệu Wikipedia</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:C%E1%BB%99ng_%C4%91%E1%BB%93ng" title="Giới thiệu dự án, cách sử dụng và tìm kiếm thông tin ở đây"><span>Cộng đồng</span></a></li><li id="n-wikipedia-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:Th%E1%BA%A3o_lu%E1%BA%ADn"><span>Thảo luận chung</span></a></li><li id="n-wikipedia-helpdesk" class="mw-list-item"><a href="/wiki/Wikipedia:Gi%C3%BAp_s%E1%BB%AD_d%E1%BB%A5ng_Wikipedia"><span>Giúp sử dụng</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//vi.wikipedia.org/wiki/Wikipedia:Liên_lạc"><span>Liên lạc</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:Tr%C3%ACnh_t%E1%BA%A3i_l%C3%AAn_t%E1%BA%ADp_tin"><span>Tải lên tập tin</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Trang_Ch%C3%ADnh" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="Bách khoa toàn thư mở" src="/static/images/mobile/copyright/wikipedia-tagline-vi.svg" width="120" height="10" style="width: 7.5em; height: 0.625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:T%C3%ACm_ki%E1%BA%BFm" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Tìm kiếm Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search cdx-button__icon"></span>
+
+<span>Tìm kiếm</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Tìm kiếm trên Wikipedia" aria-label="Tìm kiếm trên Wikipedia" autocapitalize="none" spellcheck="false" title="Tìm kiếm Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Đặc_biệt:Tìm_kiếm">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Tìm kiếm</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Công cụ cá nhân">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Giao diện">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Thay đổi giao diện của kích thước phông chữ, chiều rộng và màu sắc của trang" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Giao diện"   >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Giao diện</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=vi.wikipedia.org&amp;uselang=vi" data-mw-donate-attempt="top_link" class=""><span>Quyên góp</span></a>
+</li>
+<li id="pt-createaccount-2" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:M%E1%BB%9F_t%C3%A0i_kho%E1%BA%A3n&amp;returnto=Kh%E1%BB%A7ng+long" title="Bạn được khuyến khích mở tài khoản và đăng nhập; tuy nhiên, không bắt buộc phải có tài khoản" class=""><span>Tạo tài khoản</span></a>
+</li>
+<li id="pt-login-2" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:%C4%90%C4%83ng_nh%E1%BA%ADp&amp;returnto=Kh%E1%BB%A7ng+long" title="Đăng nhập sẽ có lợi hơn, tuy nhiên không bắt buộc. [o]" accesskey="o" class=""><span>Đăng nhập</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out vector-user-links-dropdown--collapsible"  title="Thêm tùy chọn" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Công cụ cá nhân"   >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-userAvatar mw-ui-icon-wikimedia-userAvatar cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Công cụ cá nhân</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal"  title="Bảng chọn thành viên" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=vi.wikipedia.org&amp;uselang=vi" data-mw-donate-attempt="top_link" class=""><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart cdx-button__icon"></span>
+
+<span>Quyên góp</span></a>
+</li>
+<li id="pt-createaccount" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:M%E1%BB%9F_t%C3%A0i_kho%E1%BA%A3n&amp;returnto=Kh%E1%BB%A7ng+long" title="Bạn được khuyến khích mở tài khoản và đăng nhập; tuy nhiên, không bắt buộc phải có tài khoản" class=""><span class="vector-icon mw-ui-icon-userAvatar mw-ui-icon-wikimedia-userAvatar cdx-button__icon"></span>
+
+<span>Tạo tài khoản</span></a>
+</li>
+<li id="pt-login" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:%C4%90%C4%83ng_nh%E1%BA%ADp&amp;returnto=Kh%E1%BB%A7ng+long" title="Đăng nhập sẽ có lợi hơn, tuy nhiên không bắt buộc. [o]" accesskey="o" class=""><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn cdx-button__icon"></span>
+
+<span>Đăng nhập</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Trang Web">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Nội dung" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	data-pinned-container-id="vector-toc-pinned-container"
+	data-unpinned-container-id="vector-toc-unpinned-container"
+>
+	<h2 class="vector-pinnable-header-label">Nội dung</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin" aria-label="Move Nội dung to sidebar">chuyển sang thanh bên</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin" aria-label="Hide Nội dung">ẩn</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Đầu</div>
+			</a>
+		</li>
+		<li id="toc-Từ_nguyên"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Từ_nguyên">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Từ nguyên</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Từ_nguyên-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Định_nghĩa"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Định_nghĩa">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Định nghĩa</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Định_nghĩa-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Hiện/ẩn mục Định nghĩa</span>
+			</button>
+		
+		<ul id="toc-Định_nghĩa-sublist" class="vector-toc-list">
+			<li id="toc-Mô_tả_chung"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mô_tả_chung">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1</span>
+					<span>Mô tả chung</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Mô_tả_chung-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Đặc_điểm_giải_phẫu"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Đặc_điểm_giải_phẫu">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2</span>
+					<span>Đặc điểm giải phẫu</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Đặc_điểm_giải_phẫu-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Lịch_trình_tiến_hóa"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Lịch_trình_tiến_hóa">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Lịch trình tiến hóa</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Lịch_trình_tiến_hóa-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Hiện/ẩn mục Lịch trình tiến hóa</span>
+			</button>
+		
+		<ul id="toc-Lịch_trình_tiến_hóa-sublist" class="vector-toc-list">
+			<li id="toc-Nguồn_gốc_và_sự_tiến_hóa_sớm"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Nguồn_gốc_và_sự_tiến_hóa_sớm">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.1</span>
+					<span>Nguồn gốc và sự tiến hóa sớm</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Nguồn_gốc_và_sự_tiến_hóa_sớm-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Tiến_hóa_và_cổ_địa_sinh_học"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Tiến_hóa_và_cổ_địa_sinh_học">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.2</span>
+					<span>Tiến hóa và cổ địa sinh học</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Tiến_hóa_và_cổ_địa_sinh_học-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Phân_loại"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Phân_loại">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Phân loại</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Phân_loại-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Hiện/ẩn mục Phân loại</span>
+			</button>
+		
+		<ul id="toc-Phân_loại-sublist" class="vector-toc-list">
+			<li id="toc-Phân_loại_2"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Phân_loại_2">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">4.1</span>
+					<span>Phân loại</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Phân_loại_2-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Sinh_học"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Sinh_học">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Sinh học</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Sinh_học-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Hiện/ẩn mục Sinh học</span>
+			</button>
+		
+		<ul id="toc-Sinh_học-sublist" class="vector-toc-list">
+			<li id="toc-Kích_thước"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Kích_thước">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">5.1</span>
+					<span>Kích thước</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Kích_thước-sublist" class="vector-toc-list">
+				<li id="toc-Lớn_nhất_và_nhỏ_nhất"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Lớn_nhất_và_nhỏ_nhất">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">5.1.1</span>
+					<span>Lớn nhất và nhỏ nhất</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Lớn_nhất_và_nhỏ_nhất-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-Hành_vi"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Hành_vi">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">5.2</span>
+					<span>Hành vi</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Hành_vi-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Sinh_sản"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Sinh_sản">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">5.3</span>
+					<span>Sinh sản</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Sinh_sản-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Sự_tuyệt_chủng"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Sự_tuyệt_chủng">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Sự tuyệt chủng</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Sự_tuyệt_chủng-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Hiện/ẩn mục Sự tuyệt chủng</span>
+			</button>
+		
+		<ul id="toc-Sự_tuyệt_chủng-sublist" class="vector-toc-list">
+			<li id="toc-Sự_va_chạm_của_tiểu_hành_tinh"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Sự_va_chạm_của_tiểu_hành_tinh">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">6.1</span>
+					<span>Sự va chạm của tiểu hành tinh</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Sự_va_chạm_của_tiểu_hành_tinh-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Phun_trào_núi_lửa_tại_trap_Deccan"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Phun_trào_núi_lửa_tại_trap_Deccan">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">6.2</span>
+					<span>Phun trào núi lửa tại trap Deccan</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Phun_trào_núi_lửa_tại_trap_Deccan-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Khủng_long_sống_sót_qua_vụ_tuyệt_chủng"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Khủng_long_sống_sót_qua_vụ_tuyệt_chủng">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">6.3</span>
+					<span>Khủng long sống sót qua vụ tuyệt chủng</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Khủng_long_sống_sót_qua_vụ_tuyệt_chủng-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Ghi_chú"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Ghi_chú">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>Ghi chú</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Ghi_chú-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Tham_khảo"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Tham_khảo">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>Tham khảo</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Tham_khảo-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Thư_mục"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Thư_mục">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>Thư mục</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Thư_mục-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Đọc_thêm"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Đọc_thêm">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>Đọc thêm</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Đọc_thêm-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Liên_kết_ngoài"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Liên_kết_ngoài">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">11</span>
+				<span>Liên kết ngoài</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Liên_kết_ngoài-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Nội dung" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Mục lục" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Đóng mở mục lục"   >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Đóng mở mục lục</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span lang="vi" dir="ltr"><span class="mw-page-title-main">Khủng long</span></span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector"  aria-label="179 ngôn ngữ" aria-description="Xem bài viết trong ngôn ngữ khác. Bài có sẵn trong 179 ngôn ngữ"  >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-179" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">179 ngôn ngữ</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af badge-Q17437796 badge-featuredarticle mw-list-item" title="huy hiệu bài viết chọn lọc"><a href="https://af.wikipedia.org/wiki/Dinosourus" title="Dinosourus – Tiếng Hà Lan (Nam Phi)" lang="af" hreflang="af" data-title="Dinosourus" data-language-autonym="Afrikaans" data-language-local-name="Tiếng Hà Lan (Nam Phi)" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/Dinosaurier" title="Dinosaurier – Tiếng Đức (Thụy Sĩ)" lang="gsw" hreflang="gsw" data-title="Dinosaurier" data-language-autonym="Alemannisch" data-language-local-name="Tiếng Đức (Thụy Sĩ)" class="interlanguage-link-target"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-am mw-list-item"><a href="https://am.wikipedia.org/wiki/%E1%8A%83%E1%8B%AB%E1%88%8D_%E1%8A%A5%E1%8A%95%E1%88%BD%E1%88%8B%E1%88%8A%E1%89%B5" title="ኃያል እንሽላሊት – Tiếng Amharic" lang="am" hreflang="am" data-title="ኃያል እንሽላሊት" data-language-autonym="አማርኛ" data-language-local-name="Tiếng Amharic" class="interlanguage-link-target"><span>አማርኛ</span></a></li><li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/Dinosauria" title="Dinosauria – Tiếng Aragon" lang="an" hreflang="an" data-title="Dinosauria" data-language-autonym="Aragonés" data-language-local-name="Tiếng Aragon" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ann mw-list-item"><a href="https://ann.wikipedia.org/wiki/Dinas%E1%BB%8D" title="Dinasọ – Tiếng Obolo" lang="ann" hreflang="ann" data-title="Dinasọ" data-language-autonym="Obolo" data-language-local-name="Tiếng Obolo" class="interlanguage-link-target"><span>Obolo</span></a></li><li class="interlanguage-link interwiki-anp mw-list-item"><a href="https://anp.wikipedia.org/wiki/%E0%A4%A1%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BE%E0%A4%B8%E0%A5%8B%E0%A4%B0" title="डायनासोर – Tiếng Angika" lang="anp" hreflang="anp" data-title="डायनासोर" data-language-autonym="अंगिका" data-language-local-name="Tiếng Angika" class="interlanguage-link-target"><span>अंगिका</span></a></li><li class="interlanguage-link interwiki-ar badge-Q17437796 badge-featuredarticle mw-list-item" title="huy hiệu bài viết chọn lọc"><a href="https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D9%86%D8%A7%D8%B5%D9%88%D8%B1" title="ديناصور – Tiếng Ả Rập" lang="ar" hreflang="ar" data-title="ديناصور" data-language-autonym="العربية" data-language-local-name="Tiếng Ả Rập" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ary mw-list-item"><a href="https://ary.wikipedia.org/wiki/%D8%AF%D9%8A%D9%86%D8%A7%D8%B5%D9%88%D8%B1" title="ديناصور – Moroccan Arabic" lang="ary" hreflang="ary" data-title="ديناصور" data-language-autonym="الدارجة" data-language-local-name="Moroccan Arabic" class="interlanguage-link-target"><span>الدارجة</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%AF%D9%8A%D9%86%D8%A7%D8%B5%D9%88%D8%B1" title="ديناصور – Tiếng Ả Rập Ai Cập" lang="arz" hreflang="arz" data-title="ديناصور" data-language-autonym="مصرى" data-language-local-name="Tiếng Ả Rập Ai Cập" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-as mw-list-item"><a href="https://as.wikipedia.org/wiki/%E0%A6%A1%E0%A6%BE%E0%A6%87%E0%A6%A8%E2%80%99%E0%A6%9A%E0%A7%B0" title="ডাইন’চৰ – Tiếng Assam" lang="as" hreflang="as" data-title="ডাইন’চৰ" data-language-autonym="অসমীয়া" data-language-local-name="Tiếng Assam" class="interlanguage-link-target"><span>অসমীয়া</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Dinosauriu" title="Dinosauriu – Tiếng Asturias" lang="ast" hreflang="ast" data-title="Dinosauriu" data-language-autonym="Asturianu" data-language-local-name="Tiếng Asturias" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Dinozavrlar" title="Dinozavrlar – Tiếng Azerbaijan" lang="az" hreflang="az" data-title="Dinozavrlar" data-language-autonym="Azərbaycanca" data-language-local-name="Tiếng Azerbaijan" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%AF%D8%A7%DB%8C%D9%86%D8%A7%D8%B3%D9%88%D8%B1" title="دایناسور – South Azerbaijani" lang="azb" hreflang="azb" data-title="دایناسور" data-language-autonym="تۆرکجه" data-language-local-name="South Azerbaijani" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-ba badge-Q17437798 badge-goodarticle mw-list-item" title="bài viết tốt"><a href="https://ba.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D2%99%D0%B0%D1%80" title="Динозаврҙар – Tiếng Bashkir" lang="ba" hreflang="ba" data-title="Динозаврҙар" data-language-autonym="Башҡортса" data-language-local-name="Tiếng Bashkir" class="interlanguage-link-target"><span>Башҡортса</span></a></li><li class="interlanguage-link interwiki-ban mw-list-item"><a href="https://ban.wikipedia.org/wiki/Dinosauria" title="Dinosauria – Tiếng Bali" lang="ban" hreflang="ban" data-title="Dinosauria" data-language-autonym="Basa Bali" data-language-local-name="Tiếng Bali" class="interlanguage-link-target"><span>Basa Bali</span></a></li><li class="interlanguage-link interwiki-bat-smg mw-list-item"><a href="https://bat-smg.wikipedia.org/wiki/Dinuozaur%C4%81" title="Dinuozaurā – Samogitian" lang="sgs" hreflang="sgs" data-title="Dinuozaurā" data-language-autonym="Žemaitėška" data-language-local-name="Samogitian" class="interlanguage-link-target"><span>Žemaitėška</span></a></li><li class="interlanguage-link interwiki-bcl mw-list-item"><a href="https://bcl.wikipedia.org/wiki/Dinosauryo" title="Dinosauryo – Central Bikol" lang="bcl" hreflang="bcl" data-title="Dinosauryo" data-language-autonym="Bikol Central" data-language-local-name="Central Bikol" class="interlanguage-link-target"><span>Bikol Central</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%94%D1%8B%D0%BD%D0%B0%D0%B7%D0%B0%D1%9E%D1%80" title="Дыназаўр – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" data-title="Дыназаўр" data-language-autonym="Беларуская (тарашкевіца)" data-language-local-name="Belarusian (Taraškievica orthography)" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%94%D1%8B%D0%BD%D0%B0%D0%B7%D0%B0%D1%9E%D1%80%D1%8B" title="Дыназаўры – Tiếng Belarus" lang="be" hreflang="be" data-title="Дыназаўры" data-language-autonym="Беларуская" data-language-local-name="Tiếng Belarus" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bew mw-list-item"><a href="https://bew.wikipedia.org/wiki/Kadal_bongsor" title="Kadal bongsor – Tiếng Betawi" lang="bew" hreflang="bew" data-title="Kadal bongsor" data-language-autonym="Betawi" data-language-local-name="Tiếng Betawi" class="interlanguage-link-target"><span>Betawi</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D0%B8" title="Динозаври – Tiếng Bulgaria" lang="bg" hreflang="bg" data-title="Динозаври" data-language-autonym="Български" data-language-local-name="Tiếng Bulgaria" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn badge-Q17437798 badge-goodarticle mw-list-item" title="bài viết tốt"><a href="https://bn.wikipedia.org/wiki/%E0%A6%A1%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A7%8B%E0%A6%B8%E0%A6%B0" title="ডাইনোসর – Tiếng Bangla" lang="bn" hreflang="bn" data-title="ডাইনোসর" data-language-autonym="বাংলা" data-language-local-name="Tiếng Bangla" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Dinosaor" title="Dinosaor – Tiếng Breton" lang="br" hreflang="br" data-title="Dinosaor" data-language-autonym="Brezhoneg" data-language-local-name="Tiếng Breton" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Dinosauri" title="Dinosauri – Tiếng Bosnia" lang="bs" hreflang="bs" data-title="Dinosauri" data-language-autonym="Bosanski" data-language-local-name="Tiếng Bosnia" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-bxr mw-list-item"><a href="https://bxr.wikipedia.org/wiki/%D2%AE%D0%BB%D1%8D%D0%B3_%D0%B3%D2%AF%D1%80%D0%B1%D1%8D%D0%BB" title="Үлэг гүрбэл – Russia Buriat" lang="bxr" hreflang="bxr" data-title="Үлэг гүрбэл" data-language-autonym="Буряад" data-language-local-name="Russia Buriat" class="interlanguage-link-target"><span>Буряад</span></a></li><li class="interlanguage-link interwiki-ca badge-Q17437796 badge-featuredarticle mw-list-item" title="huy hiệu bài viết chọn lọc"><a href="https://ca.wikipedia.org/wiki/Dinosaures" title="Dinosaures – Tiếng Catalan" lang="ca" hreflang="ca" data-title="Dinosaures" data-language-autonym="Català" data-language-local-name="Tiếng Catalan" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cdo mw-list-item"><a href="https://cdo.wikipedia.org/wiki/K%E1%B9%B3%CC%84ng-l%E1%B9%B3%CC%80ng" title="Kṳ̄ng-lṳ̀ng – Mindong" lang="cdo" hreflang="cdo" data-title="Kṳ̄ng-lṳ̀ng" data-language-autonym="閩東語 / Mìng-dĕ̤ng-ngṳ̄" data-language-local-name="Mindong" class="interlanguage-link-target"><span>閩東語 / Mìng-dĕ̤ng-ngṳ̄</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Dinosawryo" title="Dinosawryo – Tiếng Cebuano" lang="ceb" hreflang="ceb" data-title="Dinosawryo" data-language-autonym="Cebuano" data-language-local-name="Tiếng Cebuano" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-chr mw-list-item"><a href="https://chr.wikipedia.org/wiki/%E1%8F%98%E1%8F%B2%E1%8E%AD%E1%8E%B5_%E1%8E%A1%E1%8F%86" title="ᏘᏲᎭᎵ ᎡᏆ – Tiếng Cherokee" lang="chr" hreflang="chr" data-title="ᏘᏲᎭᎵ ᎡᏆ" data-language-autonym="ᏣᎳᎩ" data-language-local-name="Tiếng Cherokee" class="interlanguage-link-target"><span>ᏣᎳᎩ</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D8%AF%D8%A7%DB%8C%D9%86%D8%A7%D8%B3%DB%86%DA%95" title="دایناسۆڕ – Tiếng Kurd Miền Trung" lang="ckb" hreflang="ckb" data-title="دایناسۆڕ" data-language-autonym="کوردی" data-language-local-name="Tiếng Kurd Miền Trung" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-crh mw-list-item"><a href="https://crh.wikipedia.org/wiki/Dinozor" title="Dinozor – Tiếng Thổ Nhĩ Kỳ Crimean" lang="crh" hreflang="crh" data-title="Dinozor" data-language-autonym="Qırımtatarca" data-language-local-name="Tiếng Thổ Nhĩ Kỳ Crimean" class="interlanguage-link-target"><span>Qırımtatarca</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Dinosau%C5%99i" title="Dinosauři – Tiếng Séc" lang="cs" hreflang="cs" data-title="Dinosauři" data-language-autonym="Čeština" data-language-local-name="Tiếng Séc" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-csb mw-list-item"><a href="https://csb.wikipedia.org/wiki/Dinoza%C3%B9r%C3%AB" title="Dinozaùrë – Tiếng Kashubia" lang="csb" hreflang="csb" data-title="Dinozaùrë" data-language-autonym="Kaszëbsczi" data-language-local-name="Tiếng Kashubia" class="interlanguage-link-target"><span>Kaszëbsczi</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D1%81%D0%B5%D0%BC" title="Динозаврсем – Tiếng Chuvash" lang="cv" hreflang="cv" data-title="Динозаврсем" data-language-autonym="Чӑвашла" data-language-local-name="Tiếng Chuvash" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Deinosor" title="Deinosor – Tiếng Wales" lang="cy" hreflang="cy" data-title="Deinosor" data-language-autonym="Cymraeg" data-language-local-name="Tiếng Wales" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Dinosaurus" title="Dinosaurus – Tiếng Đan Mạch" lang="da" hreflang="da" data-title="Dinosaurus" data-language-autonym="Dansk" data-language-local-name="Tiếng Đan Mạch" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle mw-list-item" title="bài viết tốt"><a href="https://de.wikipedia.org/wiki/Dinosaurier" title="Dinosaurier – Tiếng Đức" lang="de" hreflang="de" data-title="Dinosaurier" data-language-autonym="Deutsch" data-language-local-name="Tiếng Đức" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-diq mw-list-item"><a href="https://diq.wikipedia.org/wiki/Dinozor" title="Dinozor – Dimli" lang="diq" hreflang="diq" data-title="Dinozor" data-language-autonym="Zazaki" data-language-local-name="Dimli" class="interlanguage-link-target"><span>Zazaki</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%94%CE%B5%CE%B9%CE%BD%CF%8C%CF%83%CE%B1%CF%85%CF%81%CE%BF%CE%B9" title="Δεινόσαυροι – Tiếng Hy Lạp" lang="el" hreflang="el" data-title="Δεινόσαυροι" data-language-autonym="Ελληνικά" data-language-local-name="Tiếng Hy Lạp" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en badge-Q17437796 badge-featuredarticle mw-list-item" title="huy hiệu bài viết chọn lọc"><a href="https://en.wikipedia.org/wiki/Dinosaur" title="Dinosaur – Tiếng Anh" lang="en" hreflang="en" data-title="Dinosaur" data-language-autonym="English" data-language-local-name="Tiếng Anh" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Dinosa%C5%ADroj" title="Dinosaŭroj – Tiếng Quốc Tế Ngữ" lang="eo" hreflang="eo" data-title="Dinosaŭroj" data-language-autonym="Esperanto" data-language-local-name="Tiếng Quốc Tế Ngữ" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Dinosauria" title="Dinosauria – Tiếng Tây Ban Nha" lang="es" hreflang="es" data-title="Dinosauria" data-language-autonym="Español" data-language-local-name="Tiếng Tây Ban Nha" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Dinosaurused" title="Dinosaurused – Tiếng Estonia" lang="et" hreflang="et" data-title="Dinosaurused" data-language-autonym="Eesti" data-language-local-name="Tiếng Estonia" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Dinosauro" title="Dinosauro – Tiếng Basque" lang="eu" hreflang="eu" data-title="Dinosauro" data-language-autonym="Euskara" data-language-local-name="Tiếng Basque" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-ext mw-list-item"><a href="https://ext.wikipedia.org/wiki/Dinosauria" title="Dinosauria – Tiếng Extremadura" lang="ext" hreflang="ext" data-title="Dinosauria" data-language-autonym="Estremeñu" data-language-local-name="Tiếng Extremadura" class="interlanguage-link-target"><span>Estremeñu</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%DB%8C%D9%86%D8%A7%D8%B3%D9%88%D8%B1" title="دایناسور – Tiếng Ba Tư" lang="fa" hreflang="fa" data-title="دایناسور" data-language-autonym="فارسی" data-language-local-name="Tiếng Ba Tư" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi badge-Q17437798 badge-goodarticle mw-list-item" title="bài viết tốt"><a href="https://fi.wikipedia.org/wiki/Dinosaurukset" title="Dinosaurukset – Tiếng Phần Lan" lang="fi" hreflang="fi" data-title="Dinosaurukset" data-language-autonym="Suomi" data-language-local-name="Tiếng Phần Lan" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fiu-vro mw-list-item"><a href="https://fiu-vro.wikipedia.org/wiki/Dinosaurus" title="Dinosaurus – Võro" lang="vro" hreflang="vro" data-title="Dinosaurus" data-language-autonym="Võro" data-language-local-name="Võro" class="interlanguage-link-target"><span>Võro</span></a></li><li class="interlanguage-link interwiki-fo mw-list-item"><a href="https://fo.wikipedia.org/wiki/Dinosaurur" title="Dinosaurur – Tiếng Faroe" lang="fo" hreflang="fo" data-title="Dinosaurur" data-language-autonym="Føroyskt" data-language-local-name="Tiếng Faroe" class="interlanguage-link-target"><span>Føroyskt</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Dinosauria" title="Dinosauria – Tiếng Pháp" lang="fr" hreflang="fr" data-title="Dinosauria" data-language-autonym="Français" data-language-local-name="Tiếng Pháp" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/Dinosaurier" title="Dinosaurier – Tiếng Frisia Miền Bắc" lang="frr" hreflang="frr" data-title="Dinosaurier" data-language-autonym="Nordfriisk" data-language-local-name="Tiếng Frisia Miền Bắc" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wikipedia.org/wiki/Dinosauri%C3%ABrs" title="Dinosauriërs – Tiếng Frisia" lang="fy" hreflang="fy" data-title="Dinosauriërs" data-language-autonym="Frysk" data-language-local-name="Tiếng Frisia" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Dineas%C3%A1r" title="Dineasár – Tiếng Ireland" lang="ga" hreflang="ga" data-title="Dineasár" data-language-autonym="Gaeilge" data-language-local-name="Tiếng Ireland" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gan mw-list-item"><a href="https://gan.wikipedia.org/wiki/%E6%81%90%E9%BE%8D" title="恐龍 – Tiếng Cám" lang="gan" hreflang="gan" data-title="恐龍" data-language-autonym="贛語" data-language-local-name="Tiếng Cám" class="interlanguage-link-target"><span>贛語</span></a></li><li class="interlanguage-link interwiki-gcr mw-list-item"><a href="https://gcr.wikipedia.org/wiki/Dinoz%C3%B2" title="Dinozò – Guianan Creole" lang="gcr" hreflang="gcr" data-title="Dinozò" data-language-autonym="Kriyòl gwiyannen" data-language-local-name="Guianan Creole" class="interlanguage-link-target"><span>Kriyòl gwiyannen</span></a></li><li class="interlanguage-link interwiki-gd mw-list-item"><a href="https://gd.wikipedia.org/wiki/D%C3%ACneasar" title="Dìneasar – Tiếng Gael Scotland" lang="gd" hreflang="gd" data-title="Dìneasar" data-language-autonym="Gàidhlig" data-language-local-name="Tiếng Gael Scotland" class="interlanguage-link-target"><span>Gàidhlig</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Dinosauro" title="Dinosauro – Tiếng Galician" lang="gl" hreflang="gl" data-title="Dinosauro" data-language-autonym="Galego" data-language-local-name="Tiếng Galician" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-gn mw-list-item"><a href="https://gn.wikipedia.org/wiki/Tejurusu" title="Tejurusu – Tiếng Guarani" lang="gn" hreflang="gn" data-title="Tejurusu" data-language-autonym="Avañe&#039;ẽ" data-language-local-name="Tiếng Guarani" class="interlanguage-link-target"><span>Avañe&#039;ẽ</span></a></li><li class="interlanguage-link interwiki-gor mw-list-item"><a href="https://gor.wikipedia.org/wiki/Dinosaurus" title="Dinosaurus – Tiếng Gorontalo" lang="gor" hreflang="gor" data-title="Dinosaurus" data-language-autonym="Bahasa Hulontalo" data-language-local-name="Tiếng Gorontalo" class="interlanguage-link-target"><span>Bahasa Hulontalo</span></a></li><li class="interlanguage-link interwiki-gu mw-list-item"><a href="https://gu.wikipedia.org/wiki/%E0%AA%A1%E0%AA%BE%E0%AA%AF%E0%AA%A8%E0%AA%BE%E0%AA%B8%E0%AB%8B%E0%AA%B0" title="ડાયનાસોર – Tiếng Gujarati" lang="gu" hreflang="gu" data-title="ડાયનાસોર" data-language-autonym="ગુજરાતી" data-language-local-name="Tiếng Gujarati" class="interlanguage-link-target"><span>ગુજરાતી</span></a></li><li class="interlanguage-link interwiki-gv mw-list-item"><a href="https://gv.wikipedia.org/wiki/Jeeneysoar" title="Jeeneysoar – Tiếng Manx" lang="gv" hreflang="gv" data-title="Jeeneysoar" data-language-autonym="Gaelg" data-language-local-name="Tiếng Manx" class="interlanguage-link-target"><span>Gaelg</span></a></li><li class="interlanguage-link interwiki-hak mw-list-item"><a href="https://hak.wikipedia.org/wiki/Khi%C3%BAng-li%C3%B9ng" title="Khiúng-liùng – Tiếng Khách Gia" lang="hak" hreflang="hak" data-title="Khiúng-liùng" data-language-autonym="客家語 / Hak-kâ-ngî" data-language-local-name="Tiếng Khách Gia" class="interlanguage-link-target"><span>客家語 / Hak-kâ-ngî</span></a></li><li class="interlanguage-link interwiki-haw mw-list-item"><a href="https://haw.wikipedia.org/wiki/Nalala" title="Nalala – Tiếng Hawaii" lang="haw" hreflang="haw" data-title="Nalala" data-language-autonym="Hawaiʻi" data-language-local-name="Tiếng Hawaii" class="interlanguage-link-target"><span>Hawaiʻi</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D" title="דינוזאורים – Tiếng Do Thái" lang="he" hreflang="he" data-title="דינוזאורים" data-language-autonym="עברית" data-language-local-name="Tiếng Do Thái" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A1%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BE%E0%A4%B8%E0%A5%8B%E0%A4%B0" title="डायनासोर – Tiếng Hindi" lang="hi" hreflang="hi" data-title="डायनासोर" data-language-autonym="हिन्दी" data-language-local-name="Tiếng Hindi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hif mw-list-item"><a href="https://hif.wikipedia.org/wiki/Dinosaur" title="Dinosaur – Tiếng Fiji Hindi" lang="hif" hreflang="hif" data-title="Dinosaur" data-language-autonym="Fiji Hindi" data-language-local-name="Tiếng Fiji Hindi" class="interlanguage-link-target"><span>Fiji Hindi</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Dinosauri" title="Dinosauri – Tiếng Croatia" lang="hr" hreflang="hr" data-title="Dinosauri" data-language-autonym="Hrvatski" data-language-local-name="Tiếng Croatia" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-ht mw-list-item"><a href="https://ht.wikipedia.org/wiki/Dinoz%C3%B2" title="Dinozò – Tiếng Haiti" lang="ht" hreflang="ht" data-title="Dinozò" data-language-autonym="Kreyòl ayisyen" data-language-local-name="Tiếng Haiti" class="interlanguage-link-target"><span>Kreyòl ayisyen</span></a></li><li class="interlanguage-link interwiki-hu badge-Q17437796 badge-featuredarticle mw-list-item" title="huy hiệu bài viết chọn lọc"><a href="https://hu.wikipedia.org/wiki/Dinoszauruszok" title="Dinoszauruszok – Tiếng Hungary" lang="hu" hreflang="hu" data-title="Dinoszauruszok" data-language-autonym="Magyar" data-language-local-name="Tiếng Hungary" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B4%D5%AB%D5%B6%D5%B8%D5%A6%D5%A1%D5%BE%D6%80%D5%A5%D6%80" title="Դինոզավրեր – Tiếng Armenia" lang="hy" hreflang="hy" data-title="Դինոզավրեր" data-language-autonym="Հայերեն" data-language-local-name="Tiếng Armenia" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/Dinosauria" title="Dinosauria – Tiếng Khoa Học Quốc Tế" lang="ia" hreflang="ia" data-title="Dinosauria" data-language-autonym="Interlingua" data-language-local-name="Tiếng Khoa Học Quốc Tế" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Dinosaurus" title="Dinosaurus – Tiếng Indonesia" lang="id" hreflang="id" data-title="Dinosaurus" data-language-autonym="Bahasa Indonesia" data-language-local-name="Tiếng Indonesia" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ie mw-list-item"><a href="https://ie.wikipedia.org/wiki/Dinosaure" title="Dinosaure – Tiếng Interlingue" lang="ie" hreflang="ie" data-title="Dinosaure" data-language-autonym="Interlingue" data-language-local-name="Tiếng Interlingue" class="interlanguage-link-target"><span>Interlingue</span></a></li><li class="interlanguage-link interwiki-ik mw-list-item"><a href="https://ik.wikipedia.org/wiki/Ni%C4%A1ru%C5%82%C5%82uk" title="Niġrułłuk – Tiếng Inupiaq" lang="ik" hreflang="ik" data-title="Niġrułłuk" data-language-autonym="Iñupiatun" data-language-local-name="Tiếng Inupiaq" class="interlanguage-link-target"><span>Iñupiatun</span></a></li><li class="interlanguage-link interwiki-ilo mw-list-item"><a href="https://ilo.wikipedia.org/wiki/Dinosauro" title="Dinosauro – Tiếng Iloko" lang="ilo" hreflang="ilo" data-title="Dinosauro" data-language-autonym="Ilokano" data-language-local-name="Tiếng Iloko" class="interlanguage-link-target"><span>Ilokano</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Dinosaurio" title="Dinosaurio – Tiếng Ido" lang="io" hreflang="io" data-title="Dinosaurio" data-language-autonym="Ido" data-language-local-name="Tiếng Ido" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Risae%C3%B0lur" title="Risaeðlur – Tiếng Iceland" lang="is" hreflang="is" data-title="Risaeðlur" data-language-autonym="Íslenska" data-language-local-name="Tiếng Iceland" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Dinosauria" title="Dinosauria – Tiếng Italy" lang="it" hreflang="it" data-title="Dinosauria" data-language-autonym="Italiano" data-language-local-name="Tiếng Italy" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E6%81%90%E7%AB%9C" title="恐竜 – Tiếng Nhật" lang="ja" hreflang="ja" data-title="恐竜" data-language-autonym="日本語" data-language-local-name="Tiếng Nhật" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jam mw-list-item"><a href="https://jam.wikipedia.org/wiki/Dainosaar" title="Dainosaar – Tiếng Anh Jamaica Creole" lang="jam" hreflang="jam" data-title="Dainosaar" data-language-autonym="Patois" data-language-local-name="Tiếng Anh Jamaica Creole" class="interlanguage-link-target"><span>Patois</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Dinosaurus" title="Dinosaurus – Tiếng Java" lang="jv" hreflang="jv" data-title="Dinosaurus" data-language-autonym="Jawa" data-language-local-name="Tiếng Java" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%98%E1%83%9C%E1%83%9D%E1%83%96%E1%83%90%E1%83%95%E1%83%A0%E1%83%94%E1%83%91%E1%83%98" title="დინოზავრები – Tiếng Georgia" lang="ka" hreflang="ka" data-title="დინოზავრები" data-language-autonym="ქართული" data-language-local-name="Tiếng Georgia" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kbp mw-list-item"><a href="https://kbp.wikipedia.org/wiki/T%C9%A9noz%C9%94%C9%94r%C9%A9" title="Tɩnozɔɔrɩ – Kabiye" lang="kbp" hreflang="kbp" data-title="Tɩnozɔɔrɩ" data-language-autonym="Kabɩyɛ" data-language-local-name="Kabiye" class="interlanguage-link-target"><span>Kabɩyɛ</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D0%BB%D0%B0%D1%80" title="Динозаврлар – Tiếng Kazakh" lang="kk" hreflang="kk" data-title="Динозаврлар" data-language-autonym="Қазақша" data-language-local-name="Tiếng Kazakh" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-km mw-list-item"><a href="https://km.wikipedia.org/wiki/%E1%9E%8C%E1%9E%B8%E1%9E%8E%E1%9E%BC%E1%9E%9F%E1%9F%90%E1%9E%9A" title="ឌីណូស័រ – Tiếng Khmer" lang="km" hreflang="km" data-title="ឌីណូស័រ" data-language-autonym="ភាសាខ្មែរ" data-language-local-name="Tiếng Khmer" class="interlanguage-link-target"><span>ភាសាខ្មែរ</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%A1%E0%B3%88%E0%B2%A8%E0%B3%8B%E0%B2%B8%E0%B2%BE%E0%B2%B0%E0%B3%8D" title="ಡೈನೋಸಾರ್ – Tiếng Kannada" lang="kn" hreflang="kn" data-title="ಡೈನೋಸಾರ್" data-language-autonym="ಕನ್ನಡ" data-language-local-name="Tiếng Kannada" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-knc mw-list-item"><a href="https://knc.wikipedia.org/wiki/Dinosaur" title="Dinosaur – Central Kanuri" lang="knc" hreflang="knc" data-title="Dinosaur" data-language-autonym="Yerwa Kanuri" data-language-local-name="Central Kanuri" class="interlanguage-link-target"><span>Yerwa Kanuri</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B3%B5%EB%A3%A1" title="공룡 – Tiếng Hàn" lang="ko" hreflang="ko" data-title="공룡" data-language-autonym="한국어" data-language-local-name="Tiếng Hàn" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ks mw-list-item"><a href="https://ks.wikipedia.org/wiki/%DA%88%D8%A7%DB%8C%D9%86%D8%A7%D8%B3%D9%88%D8%B1" title="ڈایناسور – Tiếng Kashmir" lang="ks" hreflang="ks" data-title="ڈایناسور" data-language-autonym="کٲشُر" data-language-local-name="Tiếng Kashmir" class="interlanguage-link-target"><span>کٲشُر</span></a></li><li class="interlanguage-link interwiki-ku mw-list-item"><a href="https://ku.wikipedia.org/wiki/D%C3%AEnezor" title="Dînezor – Tiếng Kurd" lang="ku" hreflang="ku" data-title="Dînezor" data-language-autonym="Kurdî" data-language-local-name="Tiếng Kurd" class="interlanguage-link-target"><span>Kurdî</span></a></li><li class="interlanguage-link interwiki-kw mw-list-item"><a href="https://kw.wikipedia.org/wiki/Arghpedrevan" title="Arghpedrevan – Tiếng Cornwall" lang="kw" hreflang="kw" data-title="Arghpedrevan" data-language-autonym="Kernowek" data-language-local-name="Tiếng Cornwall" class="interlanguage-link-target"><span>Kernowek</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80" title="Динозавр – Tiếng Kyrgyz" lang="ky" hreflang="ky" data-title="Динозавр" data-language-autonym="Кыргызча" data-language-local-name="Tiếng Kyrgyz" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Dinosauria" title="Dinosauria – Tiếng La-tinh" lang="la" hreflang="la" data-title="Dinosauria" data-language-autonym="Latina" data-language-local-name="Tiếng La-tinh" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lez mw-list-item"><a href="https://lez.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D0%B0%D1%8F%D1%80" title="Динозавраяр – Tiếng Lezghian" lang="lez" hreflang="lez" data-title="Динозавраяр" data-language-autonym="Лезги" data-language-local-name="Tiếng Lezghian" class="interlanguage-link-target"><span>Лезги</span></a></li><li class="interlanguage-link interwiki-lfn mw-list-item"><a href="https://lfn.wikipedia.org/wiki/Dinosauro" title="Dinosauro – Lingua Franca Nova" lang="lfn" hreflang="lfn" data-title="Dinosauro" data-language-autonym="Lingua Franca Nova" data-language-local-name="Lingua Franca Nova" class="interlanguage-link-target"><span>Lingua Franca Nova</span></a></li><li class="interlanguage-link interwiki-li mw-list-item"><a href="https://li.wikipedia.org/wiki/Dinosaurusse" title="Dinosaurusse – Tiếng Limburg" lang="li" hreflang="li" data-title="Dinosaurusse" data-language-autonym="Limburgs" data-language-local-name="Tiếng Limburg" class="interlanguage-link-target"><span>Limburgs</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Dinosaver" title="Dinosaver – Tiếng Lombard" lang="lmo" hreflang="lmo" data-title="Dinosaver" data-language-autonym="Lombard" data-language-local-name="Tiếng Lombard" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lo mw-list-item"><a href="https://lo.wikipedia.org/wiki/%E0%BB%84%E0%BA%94%E0%BB%82%E0%BA%99%E0%BB%80%E0%BA%AA%E0%BA%BB%E0%BA%B2" title="ໄດໂນເສົາ – Tiếng Lào" lang="lo" hreflang="lo" data-title="ໄດໂນເສົາ" data-language-autonym="ລາວ" data-language-local-name="Tiếng Lào" class="interlanguage-link-target"><span>ລາວ</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Dinozaurai" title="Dinozaurai – Tiếng Litva" lang="lt" hreflang="lt" data-title="Dinozaurai" data-language-autonym="Lietuvių" data-language-local-name="Tiếng Litva" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Dinozauri" title="Dinozauri – Tiếng Latvia" lang="lv" hreflang="lv" data-title="Dinozauri" data-language-autonym="Latviešu" data-language-local-name="Tiếng Latvia" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mai mw-list-item"><a href="https://mai.wikipedia.org/wiki/%E0%A4%A1%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%8B%E0%A4%B8%E0%A4%B0" title="डायनोसर – Tiếng Maithili" lang="mai" hreflang="mai" data-title="डायनोसर" data-language-autonym="मैथिली" data-language-local-name="Tiếng Maithili" class="interlanguage-link-target"><span>मैथिली</span></a></li><li class="interlanguage-link interwiki-map-bms mw-list-item"><a href="https://map-bms.wikipedia.org/wiki/Dinosaurus" title="Dinosaurus – Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" data-title="Dinosaurus" data-language-autonym="Basa Banyumasan" data-language-local-name="Banyumasan" class="interlanguage-link-target"><span>Basa Banyumasan</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wikipedia.org/wiki/Din%C3%B4z%C3%B4ro" title="Dinôzôro – Tiếng Malagasy" lang="mg" hreflang="mg" data-title="Dinôzôro" data-language-autonym="Malagasy" data-language-local-name="Tiếng Malagasy" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%BE%D1%81%D0%B0%D1%83%D1%80%D1%83%D1%81" title="Диносаурус – Tiếng Macedonia" lang="mk" hreflang="mk" data-title="Диносаурус" data-language-autonym="Македонски" data-language-local-name="Tiếng Macedonia" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%A6%E0%B4%BF%E0%B4%A8%E0%B5%8B%E0%B4%B8%E0%B5%BC" title="ദിനോസർ – Tiếng Malayalam" lang="ml" hreflang="ml" data-title="ദിനോസർ" data-language-autonym="മലയാളം" data-language-local-name="Tiếng Malayalam" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/%D2%AE%D0%BB%D1%8D%D0%B3_%D0%B3%D2%AF%D1%80%D0%B2%D1%8D%D0%BB" title="Үлэг гүрвэл – Tiếng Mông Cổ" lang="mn" hreflang="mn" data-title="Үлэг гүрвэл" data-language-autonym="Монгол" data-language-local-name="Tiếng Mông Cổ" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-mni mw-list-item"><a href="https://mni.wikipedia.org/wiki/%EA%AF%97%EA%AF%A5%EA%AF%A2%EA%AF%85%EA%AF%A3%EA%AF%81%EA%AF%A3%EA%AF%94" title="ꯗꯥꯢꯅꯣꯁꯣꯔ – Tiếng Manipuri" lang="mni" hreflang="mni" data-title="ꯗꯥꯢꯅꯣꯁꯣꯔ" data-language-autonym="ꯃꯤꯇꯩ ꯂꯣꯟ" data-language-local-name="Tiếng Manipuri" class="interlanguage-link-target"><span>ꯃꯤꯇꯩ ꯂꯣꯟ</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%A1%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%8B%E0%A4%B8%E0%A5%89%E0%A4%B0" title="डायनोसॉर – Tiếng Marathi" lang="mr" hreflang="mr" data-title="डायनोसॉर" data-language-autonym="मराठी" data-language-local-name="Tiếng Marathi" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-mrj mw-list-item"><a href="https://mrj.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80" title="Динозавр – Western Mari" lang="mrj" hreflang="mrj" data-title="Динозавр" data-language-autonym="Кырык мары" data-language-local-name="Western Mari" class="interlanguage-link-target"><span>Кырык мары</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Dinosaur" title="Dinosaur – Tiếng Mã Lai" lang="ms" hreflang="ms" data-title="Dinosaur" data-language-autonym="Bahasa Melayu" data-language-local-name="Tiếng Mã Lai" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-mt mw-list-item"><a href="https://mt.wikipedia.org/wiki/Dinosawru" title="Dinosawru – Tiếng Malta" lang="mt" hreflang="mt" data-title="Dinosawru" data-language-autonym="Malti" data-language-local-name="Tiếng Malta" class="interlanguage-link-target"><span>Malti</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/%E1%80%92%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%94%E1%80%AD%E1%80%AF%E1%80%86%E1%80%B1%E1%80%AC" title="ဒိုင်နိုဆော – Tiếng Miến Điện" lang="my" hreflang="my" data-title="ဒိုင်နိုဆော" data-language-autonym="မြန်မာဘာသာ" data-language-local-name="Tiếng Miến Điện" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-nah badge-Q70894304 mw-list-item" title=""><a href="https://nah.wikipedia.org/wiki/T%C4%93pouhtitl%C4%81zcuetzpalin" title="Tēpouhtitlāzcuetzpalin – Nahuatl" lang="nah" hreflang="nah" data-title="Tēpouhtitlāzcuetzpalin" data-language-autonym="Nāhuatl" data-language-local-name="Nahuatl" class="interlanguage-link-target"><span>Nāhuatl</span></a></li><li class="interlanguage-link interwiki-nds-nl mw-list-item"><a href="https://nds-nl.wikipedia.org/wiki/Dinosauriers" title="Dinosauriers – Tiếng Hạ Saxon" lang="nds-NL" hreflang="nds-NL" data-title="Dinosauriers" data-language-autonym="Nedersaksies" data-language-local-name="Tiếng Hạ Saxon" class="interlanguage-link-target"><span>Nedersaksies</span></a></li><li class="interlanguage-link interwiki-nds mw-list-item"><a href="https://nds.wikipedia.org/wiki/Dinosauriers" title="Dinosauriers – Tiếng Hạ Đức" lang="nds" hreflang="nds" data-title="Dinosauriers" data-language-autonym="Plattdüütsch" data-language-local-name="Tiếng Hạ Đức" class="interlanguage-link-target"><span>Plattdüütsch</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wikipedia.org/wiki/%E0%A4%A1%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%8B%E0%A4%B8%E0%A4%B0" title="डायनोसर – Tiếng Nepal" lang="ne" hreflang="ne" data-title="डायनोसर" data-language-autonym="नेपाली" data-language-local-name="Tiếng Nepal" class="interlanguage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-new mw-list-item"><a href="https://new.wikipedia.org/wiki/%E0%A4%A6%E0%A4%BE%E0%A4%87%E0%A4%A8%E0%A5%8B%E0%A4%B8%E0%A5%8C%E0%A4%B0" title="दाइनोसौर – Tiếng Newari" lang="new" hreflang="new" data-title="दाइनोसौर" data-language-autonym="नेपाल भाषा" data-language-local-name="Tiếng Newari" class="interlanguage-link-target"><span>नेपाल भाषा</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Dinosauri%C3%ABrs" title="Dinosauriërs – Tiếng Hà Lan" lang="nl" hreflang="nl" data-title="Dinosauriërs" data-language-autonym="Nederlands" data-language-local-name="Tiếng Hà Lan" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Dinosaurar" title="Dinosaurar – Tiếng Na Uy (Nynorsk)" lang="nn" hreflang="nn" data-title="Dinosaurar" data-language-autonym="Norsk nynorsk" data-language-local-name="Tiếng Na Uy (Nynorsk)" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Dinosaurer" title="Dinosaurer – Tiếng Na Uy (Bokmål)" lang="nb" hreflang="nb" data-title="Dinosaurer" data-language-autonym="Norsk bokmål" data-language-local-name="Tiếng Na Uy (Bokmål)" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nv mw-list-item"><a href="https://nv.wikipedia.org/wiki/Naay%C3%A9%C3%A9%CA%BC" title="Naayééʼ – Tiếng Navajo" lang="nv" hreflang="nv" data-title="Naayééʼ" data-language-autonym="Diné bizaad" data-language-local-name="Tiếng Navajo" class="interlanguage-link-target"><span>Diné bizaad</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Dinosaure" title="Dinosaure – Tiếng Occitan" lang="oc" hreflang="oc" data-title="Dinosaure" data-language-autonym="Occitan" data-language-local-name="Tiếng Occitan" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-om mw-list-item"><a href="https://om.wikipedia.org/wiki/Qarcabbojaa" title="Qarcabbojaa – Tiếng Oromo" lang="om" hreflang="om" data-title="Qarcabbojaa" data-language-autonym="Oromoo" data-language-local-name="Tiếng Oromo" class="interlanguage-link-target"><span>Oromoo</span></a></li><li class="interlanguage-link interwiki-or mw-list-item"><a href="https://or.wikipedia.org/wiki/%E0%AC%A1%E0%AC%BE%E0%AC%87%E0%AC%A8%E0%AD%8B%E0%AC%B8%E0%AC%B0" title="ଡାଇନୋସର – Tiếng Odia" lang="or" hreflang="or" data-title="ଡାଇନୋସର" data-language-autonym="ଓଡ଼ିଆ" data-language-local-name="Tiếng Odia" class="interlanguage-link-target"><span>ଓଡ଼ିଆ</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%A1%E0%A8%BE%E0%A8%87%E0%A8%A8%E0%A8%BE%E0%A8%B8%E0%A9%8C%E0%A8%B0" title="ਡਾਇਨਾਸੌਰ – Tiếng Punjab" lang="pa" hreflang="pa" data-title="ਡਾਇਨਾਸੌਰ" data-language-autonym="ਪੰਜਾਬੀ" data-language-local-name="Tiếng Punjab" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pap mw-list-item"><a href="https://pap.wikipedia.org/wiki/Dinosouro" title="Dinosouro – Tiếng Papiamento" lang="pap" hreflang="pap" data-title="Dinosouro" data-language-autonym="Papiamentu" data-language-local-name="Tiếng Papiamento" class="interlanguage-link-target"><span>Papiamentu</span></a></li><li class="interlanguage-link interwiki-pl badge-Q17437796 badge-featuredarticle mw-list-item" title="huy hiệu bài viết chọn lọc"><a href="https://pl.wikipedia.org/wiki/Dinozaury" title="Dinozaury – Tiếng Ba Lan" lang="pl" hreflang="pl" data-title="Dinozaury" data-language-autonym="Polski" data-language-local-name="Tiếng Ba Lan" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/Dinosaur" title="Dinosaur – Piedmontese" lang="pms" hreflang="pms" data-title="Dinosaur" data-language-autonym="Piemontèis" data-language-local-name="Piedmontese" class="interlanguage-link-target"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/%DA%88%D8%A7%D8%A6%DB%8C%D9%86%D9%88%D8%B3%D8%A7%D8%B1" title="ڈائینوسار – Western Punjabi" lang="pnb" hreflang="pnb" data-title="ڈائینوسار" data-language-autonym="پنجابی" data-language-local-name="Western Punjabi" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/%DA%89%D8%A7%D9%86%DA%AF%D8%B3%D8%B1" title="ډانگسر – Tiếng Pashto" lang="ps" hreflang="ps" data-title="ډانگسر" data-language-autonym="پښتو" data-language-local-name="Tiếng Pashto" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-pt badge-Q17437796 badge-featuredarticle mw-list-item" title="huy hiệu bài viết chọn lọc"><a href="https://pt.wikipedia.org/wiki/Dinossauros" title="Dinossauros – Tiếng Bồ Đào Nha" lang="pt" hreflang="pt" data-title="Dinossauros" data-language-autonym="Português" data-language-local-name="Tiếng Bồ Đào Nha" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/Thinusawru" title="Thinusawru – Tiếng Quechua" lang="qu" hreflang="qu" data-title="Thinusawru" data-language-autonym="Runa Simi" data-language-local-name="Tiếng Quechua" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-rm mw-list-item"><a href="https://rm.wikipedia.org/wiki/Dinosaurs" title="Dinosaurs – Tiếng Romansh" lang="rm" hreflang="rm" data-title="Dinosaurs" data-language-autonym="Rumantsch" data-language-local-name="Tiếng Romansh" class="interlanguage-link-target"><span>Rumantsch</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Dinozaur" title="Dinozaur – Tiếng Romania" lang="ro" hreflang="ro" data-title="Dinozaur" data-language-autonym="Română" data-language-local-name="Tiếng Romania" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D1%8B" title="Динозавры – Tiếng Nga" lang="ru" hreflang="ru" data-title="Динозавры" data-language-autonym="Русский" data-language-local-name="Tiếng Nga" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-rue mw-list-item"><a href="https://rue.wikipedia.org/wiki/%D0%94%D1%96%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D1%8B" title="Дінозавры – Rusyn" lang="rue" hreflang="rue" data-title="Дінозавры" data-language-autonym="Русиньскый" data-language-local-name="Rusyn" class="interlanguage-link-target"><span>Русиньскый</span></a></li><li class="interlanguage-link interwiki-sah mw-list-item"><a href="https://sah.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80" title="Динозавр – Tiếng Sakha" lang="sah" hreflang="sah" data-title="Динозавр" data-language-autonym="Саха тыла" data-language-local-name="Tiếng Sakha" class="interlanguage-link-target"><span>Саха тыла</span></a></li><li class="interlanguage-link interwiki-sat mw-list-item"><a href="https://sat.wikipedia.org/wiki/%E1%B1%B0%E1%B1%9F%E1%B1%AD%E1%B1%B1%E1%B1%AE%E1%B1%A5%E1%B1%9A%E1%B1%A8" title="ᱰᱟᱭᱱᱮᱥᱚᱨ – Tiếng Santali" lang="sat" hreflang="sat" data-title="ᱰᱟᱭᱱᱮᱥᱚᱨ" data-language-autonym="ᱥᱟᱱᱛᱟᱲᱤ" data-language-local-name="Tiếng Santali" class="interlanguage-link-target"><span>ᱥᱟᱱᱛᱟᱲᱤ</span></a></li><li class="interlanguage-link interwiki-sc mw-list-item"><a href="https://sc.wikipedia.org/wiki/Dinosauru" title="Dinosauru – Tiếng Sardinia" lang="sc" hreflang="sc" data-title="Dinosauru" data-language-autonym="Sardu" data-language-local-name="Tiếng Sardinia" class="interlanguage-link-target"><span>Sardu</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/Dinus%C3%A0uru" title="Dinusàuru – Tiếng Sicilia" lang="scn" hreflang="scn" data-title="Dinusàuru" data-language-autonym="Sicilianu" data-language-local-name="Tiếng Sicilia" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/Dinosaur" title="Dinosaur – Tiếng Scots" lang="sco" hreflang="sco" data-title="Dinosaur" data-language-autonym="Scots" data-language-local-name="Tiếng Scots" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-sd mw-list-item"><a href="https://sd.wikipedia.org/wiki/%DA%8A%D8%A7%D8%A6%D9%86%D9%88%D8%B3%D8%A7%D8%B1%D8%B2" title="ڊائنوسارز – Tiếng Sindhi" lang="sd" hreflang="sd" data-title="ڊائنوسارز" data-language-autonym="سنڌي" data-language-local-name="Tiếng Sindhi" class="interlanguage-link-target"><span>سنڌي</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Dinosauri" title="Dinosauri – Tiếng Serbo-Croatia" lang="sh" hreflang="sh" data-title="Dinosauri" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="Tiếng Serbo-Croatia" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B6%A9%E0%B6%BA%E0%B7%92%E0%B6%B1%E0%B7%83%E0%B7%9D%E0%B6%BB%E0%B6%BA%E0%B7%9D" title="ඩයිනසෝරයෝ – Tiếng Sinhala" lang="si" hreflang="si" data-title="ඩයිනසෝරයෝ" data-language-autonym="සිංහල" data-language-local-name="Tiếng Sinhala" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Dinosaur" title="Dinosaur – Simple English" lang="en-simple" hreflang="en-simple" data-title="Dinosaur" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Dinosaury" title="Dinosaury – Tiếng Slovak" lang="sk" hreflang="sk" data-title="Dinosaury" data-language-autonym="Slovenčina" data-language-local-name="Tiếng Slovak" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl badge-Q17437796 badge-featuredarticle mw-list-item" title="huy hiệu bài viết chọn lọc"><a href="https://sl.wikipedia.org/wiki/Dinozavri" title="Dinozavri – Tiếng Slovenia" lang="sl" hreflang="sl" data-title="Dinozavri" data-language-autonym="Slovenščina" data-language-local-name="Tiếng Slovenia" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-so mw-list-item"><a href="https://so.wikipedia.org/wiki/Diinosoor_(xayawaan)" title="Diinosoor (xayawaan) – Tiếng Somali" lang="so" hreflang="so" data-title="Diinosoor (xayawaan)" data-language-autonym="Soomaaliga" data-language-local-name="Tiếng Somali" class="interlanguage-link-target"><span>Soomaaliga</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Dinozauri" title="Dinozauri – Tiếng Albania" lang="sq" hreflang="sq" data-title="Dinozauri" data-language-autonym="Shqip" data-language-local-name="Tiếng Albania" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%BE%D1%81%D0%B0%D1%83%D1%80%D1%83%D1%81%D0%B8" title="Диносауруси – Tiếng Serbia" lang="sr" hreflang="sr" data-title="Диносауруси" data-language-autonym="Српски / srpski" data-language-local-name="Tiếng Serbia" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wikipedia.org/wiki/Dinosaurus" title="Dinosaurus – Tiếng Sunda" lang="su" hreflang="su" data-title="Dinosaurus" data-language-autonym="Sunda" data-language-local-name="Tiếng Sunda" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Dinosaurier" title="Dinosaurier – Tiếng Thụy Điển" lang="sv" hreflang="sv" data-title="Dinosaurier" data-language-autonym="Svenska" data-language-local-name="Tiếng Thụy Điển" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Dinosauri" title="Dinosauri – Tiếng Swahili" lang="sw" hreflang="sw" data-title="Dinosauri" data-language-autonym="Kiswahili" data-language-local-name="Tiếng Swahili" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-syl mw-list-item"><a href="https://syl.wikipedia.org/wiki/%EA%A0%96%EA%A0%A4%EA%A0%98%EA%A0%A7%EA%A0%8D%EA%A0%A3%EA%A0%83%EA%A0%9E" title="ꠖꠤꠘꠧꠍꠣꠃꠞ – Sylheti" lang="syl" hreflang="syl" data-title="ꠖꠤꠘꠧꠍꠣꠃꠞ" data-language-autonym="ꠍꠤꠟꠐꠤ" data-language-local-name="Sylheti" class="interlanguage-link-target"><span>ꠍꠤꠟꠐꠤ</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%8A%E0%AE%A9%E0%AF%8D%E0%AE%AE%E0%AE%BE" title="தொன்மா – Tiếng Tamil" lang="ta" hreflang="ta" data-title="தொன்மா" data-language-autonym="தமிழ்" data-language-local-name="Tiếng Tamil" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%A1%E0%B1%88%E0%B0%A8%E0%B1%8B%E0%B0%B8%E0%B0%BE%E0%B0%B0%E0%B1%8D" title="డైనోసార్ – Tiếng Telugu" lang="te" hreflang="te" data-title="డైనోసార్" data-language-autonym="తెలుగు" data-language-local-name="Tiếng Telugu" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D2%B3%D0%BE" title="Динозаврҳо – Tiếng Tajik" lang="tg" hreflang="tg" data-title="Динозаврҳо" data-language-autonym="Тоҷикӣ" data-language-local-name="Tiếng Tajik" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%94%E0%B9%82%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B9%8C" title="ไดโนเสาร์ – Tiếng Thái" lang="th" hreflang="th" data-title="ไดโนเสาร์" data-language-autonym="ไทย" data-language-local-name="Tiếng Thái" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Dinosauro" title="Dinosauro – Tiếng Tagalog" lang="tl" hreflang="tl" data-title="Dinosauro" data-language-autonym="Tagalog" data-language-local-name="Tiếng Tagalog" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tly mw-list-item"><a href="https://tly.wikipedia.org/wiki/Dinozavron" title="Dinozavron – Talysh" lang="tly" hreflang="tly" data-title="Dinozavron" data-language-autonym="Tolışi" data-language-local-name="Talysh" class="interlanguage-link-target"><span>Tolışi</span></a></li><li class="interlanguage-link interwiki-tok mw-list-item"><a href="https://tok.wikipedia.org/wiki/akesi_pi_tenpo_weka" title="akesi pi tenpo weka – Tiếng Toki Pona" lang="tok" hreflang="tok" data-title="akesi pi tenpo weka" data-language-autonym="Toki pona" data-language-local-name="Tiếng Toki Pona" class="interlanguage-link-target"><span>Toki pona</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Dinozor" title="Dinozor – Tiếng Thổ Nhĩ Kỳ" lang="tr" hreflang="tr" data-title="Dinozor" data-language-autonym="Türkçe" data-language-local-name="Tiếng Thổ Nhĩ Kỳ" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D0%BB%D0%B0%D1%80" title="Динозаврлар – Tiếng Tatar" lang="tt" hreflang="tt" data-title="Динозаврлар" data-language-autonym="Татарча / tatarça" data-language-local-name="Tiếng Tatar" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-ug mw-list-item"><a href="https://ug.wikipedia.org/wiki/%D8%AF%D9%89%D9%86%D9%88%D8%B2%D8%A7%DB%8B%D8%B1" title="دىنوزاۋر – Tiếng Uyghur" lang="ug" hreflang="ug" data-title="دىنوزاۋر" data-language-autonym="ئۇيغۇرچە / Uyghurche" data-language-local-name="Tiếng Uyghur" class="interlanguage-link-target"><span>ئۇيغۇرچە / Uyghurche</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D0%B8" title="Динозаври – Tiếng Ukraina" lang="uk" hreflang="uk" data-title="Динозаври" data-language-autonym="Українська" data-language-local-name="Tiếng Ukraina" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%DA%88%D8%A7%D8%A6%D9%86%D9%88%D8%B3%D8%A7%D8%B1" title="ڈائنوسار – Tiếng Urdu" lang="ur" hreflang="ur" data-title="ڈائنوسار" data-language-autonym="اردو" data-language-local-name="Tiếng Urdu" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Dinozavrlar" title="Dinozavrlar – Tiếng Uzbek" lang="uz" hreflang="uz" data-title="Dinozavrlar" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="Tiếng Uzbek" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vep mw-list-item"><a href="https://vep.wikipedia.org/wiki/Dinozavrad" title="Dinozavrad – Veps" lang="vep" hreflang="vep" data-title="Dinozavrad" data-language-autonym="Vepsän kel’" data-language-local-name="Veps" class="interlanguage-link-target"><span>Vepsän kel’</span></a></li><li class="interlanguage-link interwiki-vo mw-list-item"><a href="https://vo.wikipedia.org/wiki/Dinosaur" title="Dinosaur – Tiếng Volapük" lang="vo" hreflang="vo" data-title="Dinosaur" data-language-autonym="Volapük" data-language-local-name="Tiếng Volapük" class="interlanguage-link-target"><span>Volapük</span></a></li><li class="interlanguage-link interwiki-wa mw-list-item"><a href="https://wa.wikipedia.org/wiki/Dinoz%C3%B4re" title="Dinozôre – Tiếng Walloon" lang="wa" hreflang="wa" data-title="Dinozôre" data-language-autonym="Walon" data-language-local-name="Tiếng Walloon" class="interlanguage-link-target"><span>Walon</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Dinosauro" title="Dinosauro – Tiếng Waray" lang="war" hreflang="war" data-title="Dinosauro" data-language-autonym="Winaray" data-language-local-name="Tiếng Waray" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E6%81%90%E9%BE%99" title="恐龙 – Tiếng Ngô" lang="wuu" hreflang="wuu" data-title="恐龙" data-language-autonym="吴语" data-language-local-name="Tiếng Ngô" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-yi mw-list-item"><a href="https://yi.wikipedia.org/wiki/%D7%93%D7%99%D7%A0%D7%90%D7%96%D7%90%D7%95%D7%95%D7%A2%D7%A8" title="דינאזאווער – Tiếng Yiddish" lang="yi" hreflang="yi" data-title="דינאזאווער" data-language-autonym="ייִדיש" data-language-local-name="Tiếng Yiddish" class="interlanguage-link-target"><span>ייִדיש</span></a></li><li class="interlanguage-link interwiki-yo mw-list-item"><a href="https://yo.wikipedia.org/wiki/Dain%C3%B3s%C3%B2" title="Dainósò – Tiếng Yoruba" lang="yo" hreflang="yo" data-title="Dainósò" data-language-autonym="Yorùbá" data-language-local-name="Tiếng Yoruba" class="interlanguage-link-target"><span>Yorùbá</span></a></li><li class="interlanguage-link interwiki-za mw-list-item"><a href="https://za.wikipedia.org/wiki/Hoengjlungz" title="Hoengjlungz – Tiếng Choang" lang="za" hreflang="za" data-title="Hoengjlungz" data-language-autonym="Vahcuengh" data-language-local-name="Tiếng Choang" class="interlanguage-link-target"><span>Vahcuengh</span></a></li><li class="interlanguage-link interwiki-zh-classical mw-list-item"><a href="https://zh-classical.wikipedia.org/wiki/%E6%81%90%E9%BE%8D" title="恐龍 – Literary Chinese" lang="lzh" hreflang="lzh" data-title="恐龍" data-language-autonym="文言" data-language-local-name="Literary Chinese" class="interlanguage-link-target"><span>文言</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Khi%C3%B3ng-li%C3%B4ng" title="Khióng-liông – Tiếng Mân Nam" lang="nan" hreflang="nan" data-title="Khióng-liông" data-language-autonym="閩南語 / Bân-lâm-gí" data-language-local-name="Tiếng Mân Nam" class="interlanguage-link-target"><span>閩南語 / Bân-lâm-gí</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E6%81%90%E9%BE%8D" title="恐龍 – Tiếng Quảng Đông" lang="yue" hreflang="yue" data-title="恐龍" data-language-autonym="粵語" data-language-local-name="Tiếng Quảng Đông" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh badge-Q17437798 badge-goodarticle mw-list-item" title="bài viết tốt"><a href="https://zh.wikipedia.org/wiki/%E6%81%90%E9%BE%99" title="恐龙 – Tiếng Trung" lang="zh" hreflang="zh" data-title="恐龙" data-language-autonym="中文" data-language-local-name="Tiếng Trung" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q430#sitelinks-wikipedia" title="Sửa liên kết giữa ngôn ngữ" class="wbc-editpage">Sửa liên kết</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Không gian tên">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected mw-list-item vector-tab-noicon"><a data-mw-interface  href="/wiki/Kh%E1%BB%A7ng_long" title="Xem bài viết [c]" accesskey="c" class=""><span>Bài viết</span></a>
+</li>
+<li id="ca-talk" class="mw-list-item vector-tab-noicon"><a data-mw-interface  href="/wiki/Th%E1%BA%A3o_lu%E1%BA%ADn:Kh%E1%BB%A7ng_long" rel="discussion" title="Thảo luận về trang này [t]" accesskey="t" class=""><span>Thảo luận</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Thay đổi biến thể ngôn ngữ"    >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tiếng Việt</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Giao diện">
+			    
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="/wiki/Kh%E1%BB%A7ng_long" class=""><span>Đọc</span></a>
+</li>
+<li id="ca-ve-edit" class="mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="/w/index.php?title=Kh%E1%BB%A7ng_long&amp;veaction=edit" title="Sửa đổi trang này [v]" accesskey="v" class=""><span>Sửa đổi</span></a>
+</li>
+<li id="ca-edit" class="collapsible mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="/w/index.php?title=Kh%E1%BB%A7ng_long&amp;action=edit" title="Sửa đổi mã nguồn của trang này [e]" accesskey="e" class=""><span>Sửa mã nguồn</span></a>
+</li>
+<li id="ca-history" class="mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="/w/index.php?title=Kh%E1%BB%A7ng_long&amp;action=history" title="Các phiên bản cũ của trang này [h]" accesskey="h" class=""><span>Xem lịch sử</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+			</nav>
+
+							<nav class="vector-page-tools-landmark" aria-label="Công cụ trang">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Công cụ"   >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-verticalEllipsis mw-ui-icon-wikimedia-verticalEllipsis cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Công cụ</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Công cụ</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin" aria-label="Move Công cụ to sidebar">chuyển sang thanh bên</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin" aria-label="Hide Công cụ">ẩn</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet"  >
+	<div class="vector-menu-heading">
+		Tác vụ
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view-more" class="selected mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/wiki/Kh%E1%BB%A7ng_long" class=""><span class="vector-icon mw-ui-icon-eye mw-ui-icon-wikimedia-eye cdx-button__icon"></span>
+
+<span>Đọc</span></a>
+</li>
+<li id="ca-ve-edit-more" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Kh%E1%BB%A7ng_long&amp;veaction=edit" title="Sửa đổi trang này [v]" accesskey="v" class=""><span class="vector-icon mw-ui-icon-edit mw-ui-icon-wikimedia-edit cdx-button__icon"></span>
+
+<span>Sửa đổi</span></a>
+</li>
+<li id="ca-edit-more" class="collapsible mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Kh%E1%BB%A7ng_long&amp;action=edit" title="Sửa đổi mã nguồn của trang này [e]" accesskey="e" class=""><span class="vector-icon mw-ui-icon-wikiText mw-ui-icon-wikimedia-wikiText cdx-button__icon"></span>
+
+<span>Sửa mã nguồn</span></a>
+</li>
+<li id="ca-history-more" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Kh%E1%BB%A7ng_long&amp;action=history" title="Các phiên bản cũ của trang này [h]" accesskey="h" class=""><span class="vector-icon mw-ui-icon-history mw-ui-icon-wikimedia-history cdx-button__icon"></span>
+
+<span>Xem lịch sử</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Chung
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Li%C3%AAn_k%E1%BA%BFt_%C4%91%E1%BA%BFn_%C4%91%C3%A2y/Kh%E1%BB%A7ng_long" title="Các trang liên kết đến đây [j]" accesskey="j"><span>Các liên kết đến đây</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:Thay_%C4%91%E1%BB%95i_li%C3%AAn_quan/Kh%E1%BB%A7ng_long" rel="nofollow" title="Thay đổi gần đây của các trang liên kết đến đây [k]" accesskey="k"><span>Thay đổi liên quan</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Kh%E1%BB%A7ng_long&amp;oldid=75356383" title="Liên kết thường trực đến phiên bản này của trang"><span>Liên kết thường trực</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Kh%E1%BB%A7ng_long&amp;action=info" title="Thêm chi tiết về trang này"><span>Thông tin trang</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:Tr%C3%ADch_d%E1%BA%ABn&amp;page=Kh%E1%BB%A7ng_long&amp;id=75356383&amp;wpFormIdentifier=titleform" title="Hướng dẫn cách trích dẫn trang này"><span>Trích dẫn trang này</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:UrlShortener&amp;url=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2FKh%25E1%25BB%25A7ng_long"><span>Tạo URL rút gọn</span></a></li><li class="mw-list-item"><a href="/w/index.php?title=Kh%E1%BB%A7ng_long&amp;useparsoid=0"><span>Chuyển sang bộ phân tích cũ</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		In và xuất
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:S%C3%A1ch&amp;bookcmd=book_creator&amp;referer=Kh%E1%BB%A7ng+long"><span>Tạo một quyển sách</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%C4%90%E1%BA%B7c_bi%E1%BB%87t:DownloadAsPdf&amp;page=Kh%E1%BB%A7ng_long&amp;action=show-download-screen"><span>Tải dưới dạng PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Kh%E1%BB%A7ng_long&amp;printable=yes" title="Bản để in ra của trang [p]" accesskey="p"><span>Bản để in ra</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		Tại dự án khác
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Dinosauria" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Dinosauria" hreflang="en"><span>Wikispecies</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://vi.wikiquote.org/wiki/Kh%E1%BB%A7ng_long" hreflang="vi"><span>Wikiquote</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q430" title="Liên kết đến khoản mục kết nối trong kho dữ liệu [g]" accesskey="g"><span>Khoản mục Wikidata</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Công cụ trang">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Giao diện">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Giao diện</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin" aria-label="Move Giao diện to sidebar">chuyển sang thanh bên</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin" aria-label="Hide Giao diện">ẩn</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-1000BCB" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File" data-mw='{"caption":"Đây là một bài viết cơ bản. Nhấn vào đây để biết thêm thông tin."}' id="mwC9U"><a href="https://vi.wikipedia.org/wiki/Wikipedia:Danh_sách_bài_cơ_bản_nên_có" title="Đây là một bài viết cơ bản. Nhấn vào đây để biết thêm thông tin." id="mwC9Y"><img resource="https://vi.wikipedia.org/wiki/Tập_tin:1000_bài_cơ_bản.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/1000_b%C3%A0i_c%C6%A1_b%E1%BA%A3n.svg/20px-1000_b%C3%A0i_c%C6%A1_b%E1%BA%A3n.svg.png?utm_source=vi.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/1000_b%C3%A0i_c%C6%A1_b%E1%BA%A3n.svg/40px-1000_b%C3%A0i_c%C6%A1_b%E1%BA%A3n.svg.png?utm_source=vi.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="Đây là một bài viết cơ bản. Nhấn vào đây để biết thêm thông tin." data-file-width="103" data-file-height="94" data-file-type="drawing" height="18" width="20" class="mw-file-element" id="mwC9c"/></a></span>
+</div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Bách khoa toàn thư mở Wikipedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="vi" dir="ltr" data-mw-parsoid-version="0.24.0.0-alpha19" data-mw-html-version="2.8.0"><section data-mw-section-id="0" id="mwAQ"><p about="#mwt3" typeof="mw:Transclusion" class="mw-empty-elt" id="mwAg" data-mw='{"parts":[{"template":{"target":{"wt":"1000 bài cơ bản","href":"./Bản_mẫu:1000_bài_cơ_bản"},"params":{},"i":0}}," \n",{"template":{"target":{"wt":"Automatic taxobox\n","href":"./Bản_mẫu:Automatic_taxobox"},"params":{"name":{"wt":"Khủng long"},"fossil_range":{"wt":"{{fossilrange|233.23|0|[[Trias muộn]]–[[Thế Toàn Tân|nay]]; 233,23 – 0 Mya | |earliest=245 |PS=Khoảng hóa thạch đã bao gồm lớp Chim (Aves) }} (Có lẽ bao quát cả Trias giữa)"},"image":{"wt":"Dinosauria montage 2.jpg"},"image_upright":{"wt":"1.3"},"image_caption":{"wt":"Một số loài khủng long tiêu biểu. Theo chiều kim đồng hồ từ góc trái trên cùng: &apos;&apos;[[Microraptor|Microraptor&amp;nbsp;gui]]&apos;&apos;&amp;nbsp;-&amp;nbsp;[[khủng&amp;nbsp;long&amp;nbsp;chân&amp;nbsp;thú]] &lt;br />&apos;&apos;[[Apatosaurus|Apatosaurus&amp;nbsp;louisae]]&apos;&apos;&amp;nbsp;-&amp;nbsp;[[khủng&amp;nbsp;long&amp;nbsp;chân&amp;nbsp;thằn&amp;nbsp;lằn]]&lt;br/>&apos;&apos;[[Edmontosaurus|Edmontosaurus&amp;nbsp;regalis]]&apos;&apos;&amp;nbsp;-&amp;nbsp;[[khủng&amp;nbsp;long&amp;nbsp;chân&amp;nbsp;chim]]&lt;br/>&apos;&apos;[[Triceratops|Triceratops&amp;nbsp;horridus]]&apos;&apos;&amp;nbsp;-&amp;nbsp;[[khủng&amp;nbsp;long&amp;nbsp;mặt&amp;nbsp;sừng]]&lt;br/>&apos;&apos;[[Stegosaurus|Stegosaurus&amp;nbsp;stenops]]&apos;&apos;&amp;nbsp;-&amp;nbsp;[[khủng&amp;nbsp;long&amp;nbsp;phiến&amp;nbsp;sừng]]&lt;br/>&apos;&apos;[[Pinacosaurus|Pinacosaurus&amp;nbsp;grangeri]]&apos;&apos;&amp;nbsp;-&amp;nbsp;[[khủng&amp;nbsp;long&amp;nbsp;bọc&amp;nbsp;giáp]]"},"display_parents":{"wt":"7"},"taxon":{"wt":"Dinosauria"},"authority":{"wt":"[[Richard Owen|Owen]], 1842"},"subdivision_ranks":{"wt":"Các nhóm lớn"},"subdivision":{"wt":"*{{extinct}}[[Ornithischia]]\n*{{extinct}}[[Sauropodomorpha]]\n*[[Theropoda]]\n**[[Aves]]\n{{Collapse top|title=Các chi chưa rõ vị trí trên cây phân loại|left=yes|padding=0|border=0|border2=0|bg=clear|bg2=clear}}\n*{{extinct}}&apos;&apos;[[Alwalkeria]]&apos;&apos;?\n*{{extinct}}&apos;&apos;[[Chilesaurus]]&apos;&apos;\n*{{extinct}}&apos;&apos;[[Chindesaurus]]&apos;&apos;?\n*{{extinct}}&apos;&apos;[[Daemonosaurus]]&apos;&apos;?\n*{{extinct}}&apos;&apos;[[Eodromaeus]]&apos;&apos;?\n*{{extinct}}&apos;&apos;[[Nhandumirim]]&apos;&apos;\n*{{extinct}}&apos;&apos;[[Nyasasaurus]]&apos;&apos;?\n*{{extinct}}&apos;&apos;[[Pisanosaurus]]&apos;&apos;?\n*{{extinct}}&apos;&apos;[[Smok (archosaur)|Smok]]&apos;&apos;?\n*{{extinct}}&apos;&apos;[[Tawa hallae|Tawa]]&apos;&apos;?\n*{{extinct}}&apos;&apos;[[Thecospondylus]]&apos;&apos;\n*{{extinct}}[[Guaibasauridae]]?\n*{{extinct}}[[Herrerasauria]]?&lt;ref>Matthew G. Baron; Megan E. Williams (2018). \"A re-evaluation of the enigmatic dinosauriform Caseosaurus crosbyensis from the Late Triassic of Texas, USA and its implications for early dinosaur evolution\". Acta Palaeontologica Polonica. 63. {{doi|10.4202/app.00372.2017}}.&lt;/ref>&lt;ref>Andrea Cau (2018). \"The assembly of the avian body plan: a 160-million-year long process\" (PDF). Bollettino della Società Paleontologica Italiana. 57 (1): 1–25. {{doi|10.4435/BSPI.2018.01}}.&lt;/ref>\n*{{extinct}}[[Silesauridae]]? &lt;small>([[cận ngành]]?)&lt;/small>&lt;ref>{{chú thích tạp chí|last1=Ferigolo|first1=Jorge|last2=Langer|first2=Max C.|date=January 1, 2007|title=A Late Triassic dinosauriform from south Brazil and the origin of the ornithischian predentary bone|url=https://doi.org/10.1080/08912960600845767|journal=Historical Biology|volume=19|issue=1|pages=23–33|doi=10.1080/08912960600845767|s2cid=85819339|issn=0891-2963}}&lt;/ref>&lt;ref>{{chú thích tạp chí|last1=Langer|first1=Max C.|last2=Ferigolo|first2=Jorge|date=January 1, 2013|title=The Late Triassic dinosauromorph &apos;&apos;Sacisaurus agudoensis&apos;&apos; (Caturrita Formation; Rio Grande do Sul, Brazil): anatomy and affinities|url=https://sp.lyellcollection.org/content/379/1/353|journal=Geological Society, London, Special Publications|language=en|volume=379|issue=1|pages=353–392|doi=10.1144/SP379.16|bibcode=2013GSLSP.379..353L|s2cid=131414332|issn=0305-8719}}&lt;/ref>&lt;ref name=\"cabreira2016\">{{chú thích tạp chí|last1=Cabreira|first1=S.F.|last2=Kellner|first2=A.W.A.|last3=Dias-da-Silva|first3=S.|last4=da Silva|first4=L.R.|last5=Bronzati|first5=M.|last6=de Almeida Marsola|first6=J.C.|last7=Müller|first7=R.T.|last8=de Souza Bittencourt|first8=J.|last9=Batista|first9=B.J.|last10=Raugust|first10=T.|last11=Carrilho|first11=R.|date=2016|title=A Unique Late Triassic Dinosauromorph Assemblage Reveals Dinosaur Ancestral Anatomy and Diet|journal=Current Biology|volume=26|issue=22|pages=3090–3095|doi=10.1016/j.cub.2016.09.040|pmid=27839975|doi-access=free|first12=A.|last12=Brodt|first13=M.C.|last13=Langer}}&lt;/ref>&lt;ref>{{chú thích tạp chí|last1=Müller|first1=Rodrigo Temp|last2=Garcia|first2=Maurício Silva|date=August 26, 2020|title=A paraphyletic &apos;Silesauridae&apos; as an alternative hypothesis for the initial radiation of ornithischian dinosaurs|journal=Biology Letters|volume=16|issue=8|pages=20200417|doi=10.1098/rsbl.2020.0417|pmid=32842895|pmc=7480155|doi-access=free}}&lt;/ref>\n{{collapse bottom}}"}},"i":1}}]}'><meta typeof="mw:Extension/indicator" about="#mwt2" id="mwAw" data-mw='{"name":"indicator","attrs":{"name":"1000BCB"},"body":{"extsrc":"[[Tập tin:1000 bài cơ bản.svg|20x20px |link=Wikipedia:Danh sách bài cơ bản nên có   |Đây là một bài viết cơ bản. Nhấn vào đây để biết thêm thông tin.]]\n"}}'/>
+<link rel="mw:PageProp/Category" href="./Thể_loại:Bài_cơ_bản#Khủng%20long"/> 
+</p><table class="infobox taxobox" style="text-align: left; width: 17.5em; font-size: 0.9em;" about="#mwt3"> 
 </body>
 </html>
